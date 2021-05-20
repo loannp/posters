@@ -1,7 +1,6 @@
-アクセシビリティのためのデザイン
+Các thiết kế web nhằm tăng khả năng tiếp cận với các đối tượng đặc biệt
 
 Thiết kế dành cho người mắc rối loạn phổ tự kỷ
-【自閉症スペクトラムのためのデザイン】.
 
 Nên
 • Sử dụng màu sắc đơn giản
