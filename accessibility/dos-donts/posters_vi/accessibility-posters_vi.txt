@@ -35,18 +35,18 @@ KHÔNG NÊN
 【Thiết kế dành cho người suy giảm thị lực】
 
 NÊN
-•Sử dụng màu sắc có độ tương phản cao và cỡ chữ dễ đọc
-•Hiển thị tất cả các thông tin trong trang web (HTML)
+•Sử dụng màu sắc tương phản cao và cỡ chữ dễ đọc
+•Hiển thị tất cả thông tin trong trang web
 •Kết hợp màu sắc, hình dạng và chữ viết
 •Tạo bố cục có trình tự và hợp lý
 •Các nút và thông báo được đặt trong bối cảnh phù hợp
 
 KHÔNG NÊN
-•Sử dụng màu sắc có độ tương phản thấp và cỡ chữ nhỏ
-•Cất giấu thông tin trong các tệp tải xuống
+•Sử dụng màu sắc tương phản thấp và cỡ chữ nhỏ
+•Dồn thông tin trong các tệp tải xuống
 •Chỉ dùng màu sắc để thể hiện ý nghĩa
-•Dàn trải nội dung ra toàn bộ trang web (khi phóng to, cần phải scroll ngang để xem được)
-•Tách biệt các thao tác khỏi bối cảnh của nó
+•Dàn trải nội dung ra toàn bộ trang web
+•Tách biệt thao tác khỏi bối cảnh
 
 【Thiết kế cho người mắc chứng khó đọc】
 
