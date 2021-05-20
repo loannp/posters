@@ -19,18 +19,18 @@ Không nên
 【Thiết kế dành cho người sử dụng công cụ đọc màn hình】
 
 NÊN
-•Giải thích hình ảnh, cung cấp phụ đề cho video
-•Tạo bố cục có trình tự và hợp lý
-•Xây dựng nội dung bằng HTML5
-•Xây dựng trang web chỉ thao tác bằng bàn phím
-•Các đường link và tiêu đề chi tiết
+•Mô tả hình ảnh và cung cấp phụ đề cho video
+•Tạo bố cục có trình tự và logic
+•Cấu trúc nội dung sử dụng HTML5
+•Xây dựng cho phép có thể thao tác chỉ sử dụng bàn phím
+•Viết các đường dẫn và đầu mục mô tả
 
 KHÔNG NÊN
-•Chỉ hiển thị thông tin bằng hình ảnh và video
-•Bố trí nội dung rải rác trên toàn trang web
-•Xây dựng nội dung phụ thuộc vào cỡ chữ và cách sắp xếp
-•Bắt buộc phải sử dụng chuột và màn hình
-•Không sử dụng đường dẫn và các đầu mục giải thích
+•Chỉ hiển thị thông tin bằng hình ảnh hoặc video
+•Dàn trải nội dung ra khắp trang web
+•Cấu trúc phụ thuộc cỡ chữ và sắp đặt vị trí
+•Bắt buộc sử dụng chuột hoặc màn hình
+•Sử dụng đường dẫn và đầu mục thiếu thông tin
 
 【Thiết kế dành cho người suy giảm thị lực】
 
@@ -43,7 +43,7 @@ NÊN
 
 KHÔNG NÊN
 •Sử dụng màu sắc tương phản thấp và cỡ chữ nhỏ
-•Dồn thông tin trong các tệp tải xuống
+•Tập trung thông tin trong các tệp tải xuống
 •Chỉ dùng màu sắc để thể hiện ý nghĩa
 •Dàn trải nội dung ra toàn bộ trang web
 •Tách biệt thao tác khỏi bối cảnh
@@ -68,16 +68,16 @@ Không nên
 
 NÊN
 •Mở rộng phạm vi có thể click chuột
-•Tạo ra các khoảng trống giữa các đối tượng có thể click
-•Thiết kế có thể sử dụng được chỉ với bàn phím và giọng nói
+•Tạo khoảng trống giữa các đối tượng
+•Thiết kế để sử dụng được chỉ với bàn phím và giọng nói
 •Thiết kế phù hợp để sử dụng bằng điện thoại và màn hình cảm ứng
 •Cung cấp các đường tắt (shortcut)
 
 KHÔNG NÊN
 •Yêu cầu sự chính xác
-•Đặt các đối tượng có thể click quá gần nhau
-•Cần phải di chuyển chuột nhiều
-•Giới hạn thời gian thao tác ngắn
+•Bố trí các đối tượng quá gần nhau
+•Tạo nội dung tĩnh khiến cho phải di chuyển chuột nhiều
+•Giới hạn phiên sử dụng thời gian ngắn
 •Khiến người dùng mệt mỏi do soạn thảo và lăn chuột nhiều
 
 【Thiết kế cho người khiếm thính】
