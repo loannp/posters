@@ -60,30 +60,30 @@
             <rect id="Rectangle-2" fill="#FFFFFF" opacity="0.5" x="44" y="724" width="1502" height="294.440002"></rect>
             <rect id="Rectangle-2" fill="#FFFFFF" opacity="0.5" x="44" y="1312" width="1502" height="294.440002"></rect>
             <rect id="Rectangle-2" fill="#FFFFFF" opacity="0.5" x="44" y="1909.54004" width="1502" height="294.440002"></rect>
-            <text id="Designing-for-users-" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="80" font-weight="bold" fill="#000000">
+            <text id="Designing-for-users-" font-family="Helvetica, sans-serif" font-size="80" font-weight="bold" fill="#000000">
                 <tspan x="112" y="206">Designing for users with</tspan>
             </text>
-            <text id="physical-or-motor-" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="100" font-weight="bold" line-spacing="112" fill="#000000">
+            <text id="physical-or-motor-" font-family="Helvetica, sans-serif" font-size="100" font-weight="bold" line-spacing="112" fill="#000000">
                 <tspan x="110" y="313">physical or motor </tspan>
                 <tspan x="110" y="425">disabilities</tspan>
             </text>
             <path d="M120.980942,473 L1475.00037,473" id="Line" stroke="#B58840" stroke-width="8" stroke-linecap="square"></path>
             <path d="M26.5,1322 L1555.01599,1322" id="Line" stroke="#B58840" stroke-width="8" stroke-linecap="square" transform="translate(791.000000, 1322.000000) rotate(90.000000) translate(-791.000000, -1322.000000) "></path>
-            <text id="Do…" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="100" font-weight="bold" fill="#000000">
+            <text id="Do…" font-family="Helvetica, sans-serif" font-size="100" font-weight="bold" fill="#000000">
                 <tspan x="112" y="621">Do…</tspan>
             </text>
-            <text id="Don’t…" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="100" font-weight="bold" fill="#000000">
+            <text id="Don’t…" font-family="Helvetica, sans-serif" font-size="100" font-weight="bold" fill="#000000">
                 <tspan x="854" y="621">Don’t…</tspan>
             </text>
             <g id="Do-5" transform="translate(117.000000, 1950.000000)">
-                <text id="provide-" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold" fill="#000000">
+                <text id="provide-" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
                     <tspan x="0" y="91">provide </tspan>
                     <tspan x="0" y="131">shortcuts</tspan>
                 </text>
                 <use id="Rectangle-125" stroke="#979797" mask="url(#mask-2)" stroke-width="10" fill="#F8F8F8" xlink:href="#path-1"></use>
                 <g id="Group-2" transform="translate(326.000000, 140.000000)">
                     <rect id="Rectangle-16" fill="#00823B" x="0" y="0" width="182" height="48"></rect>
-                    <text id="Find-address" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" fill="#FFFFFF">
+                    <text id="Find-address" font-family="Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF">
                         <tspan x="16" y="34">Find address</tspan>
                     </text>
                 </g>
@@ -92,7 +92,7 @@
                 </text>
             </g>
             <g id="Dont-5" transform="translate(863.000000, 1950.000000)">
-                <text id="tire-users" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold" fill="#000000">
+                <text id="tire-users" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
                     <tspan x="0" y="50">tire users</tspan>
                     <tspan x="0" y="90">with lots of</tspan>
                     <tspan x="0" y="130">typing and </tspan>
@@ -104,7 +104,7 @@
                     <tspan x="335" y="35">Address</tspan>
                 </text>
             </g>
-            <g id="Dont-4" transform="translate(863.000000, 1688.000000)" font-size="34" font-family="HelveticaNeue-Bold, Helvetica Neue" fill="#000000" font-weight="bold">
+            <g id="Dont-4" transform="translate(863.000000, 1688.000000)" font-size="34" font-family="Helvetica, sans-serif" fill="#000000" font-weight="bold">
                 <text id="have-short">
                     <tspan x="0" y="33">have short</tspan>
                     <tspan x="0" y="73">time out </tspan>
@@ -112,7 +112,7 @@
                 </text>
             </g>
             <g id="Do-4" transform="translate(115.000000, 1635.000000)">
-                <text id="design-with" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold" fill="#000000">
+                <text id="design-with" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
                     <tspan x="0" y="66">design with</tspan>
                     <tspan x="0" y="106">mobile and</tspan>
                     <tspan x="0" y="146">touchscreen</tspan>
@@ -133,7 +133,7 @@
                 </text>
             </g>
             <g id="Dont-3" transform="translate(864.000000, 1343.000000)">
-                <text id="make-dynamic" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold" fill="#000000">
+                <text id="make-dynamic" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
                     <tspan x="0" y="77">make dynamic</tspan>
                     <tspan x="0" y="117">content that</tspan>
                     <tspan x="0" y="157">requires a lot of</tspan>
@@ -149,18 +149,18 @@
                 <text id="" font-family="FontAwesome" font-size="100" font-weight="normal" fill="#0B0C0C">
                     <tspan x="600" y="233"></tspan>
                 </text>
-                <text id="1" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="48" font-weight="bold" line-spacing="61" fill="#0B0C0C">
+                <text id="1" font-family="Helvetica, sans-serif" font-size="48" font-weight="bold" line-spacing="61" fill="#0B0C0C">
                     <tspan x="352" y="47">1</tspan>
                     <tspan x="352" y="108">2</tspan>
                     <tspan x="352" y="169">3</tspan>
                 </text>
-                <text id="2a" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="48" font-weight="bold" line-spacing="61" fill="#0B0C0C">
+                <text id="2a" font-family="Helvetica, sans-serif" font-size="48" font-weight="bold" line-spacing="61" fill="#0B0C0C">
                     <tspan x="494" y="113">2a</tspan>
                     <tspan x="494" y="174">2b</tspan>
                     <tspan x="494" y="235">2c</tspan>
                 </text>
             </g>
-            <g id="Do-3" transform="translate(115.000000, 1387.000000)" font-size="34" font-family="HelveticaNeue-Bold, Helvetica Neue" fill="#000000" font-weight="bold">
+            <g id="Do-3" transform="translate(115.000000, 1387.000000)" font-size="34" font-family="Helvetica, sans-serif" fill="#000000" font-weight="bold">
                 <text id="design-for-">
                     <tspan x="0" y="33">design for </tspan>
                     <tspan x="0" y="73">keyboard or</tspan>
@@ -169,7 +169,7 @@
                 </text>
             </g>
             <g id="Do-2" transform="translate(115.000000, 1062.000000)">
-                <text id="give-form-" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold" fill="#000000">
+                <text id="give-form-" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
                     <tspan x="0" y="98">give form </tspan>
                     <tspan x="0" y="138">fields space</tspan>
                 </text>
@@ -181,7 +181,7 @@
                 </g>
             </g>
             <g id="Don't-2" transform="translate(865.000000, 1082.000000)">
-                <text id="bunch-" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold" fill="#000000">
+                <text id="bunch-" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
                     <tspan x="0" y="58">bunch </tspan>
                     <tspan x="0" y="98">interactions </tspan>
                     <tspan x="0" y="138">together</tspan>
@@ -200,7 +200,7 @@
                 </text>
             </g>
             <g id="Dont-1" transform="translate(864.000000, 837.000000)">
-                <text id="demand" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold" fill="#000000">
+                <text id="demand" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
                     <tspan x="0" y="33">demand</tspan>
                     <tspan x="0" y="73">precision</tspan>
                 </text>
@@ -211,7 +211,7 @@
                 <image id="Bitmap" x="386" y="37" width="68" height="87" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAc4AAAJXCAYAAAAaZ7SmAAAABGdBTUEAA1teXP8meAAAITpJREFUeAHt2E/IXWV+B/D8eZO8jWFmCsFW4lC6MBbGkYrpECk6roIhZdaZRQWp2G6qG/90UQjiplnoxkUNA+pCWl24LNWumuo4pRYUZtHaoBai7SKNaGrlTRqTHruZm3PPPTfmnvOc3++5n4DwnvPc+zy/5/MFv3C3bfOPQL/A8Wb5akX/vdF/XasECBDoF9jRv2yVAAECBAgQmBVQnLMa/iZAgAABAksEFOcSIMsECBAgQGBWQHHOavibAAECBAgsEVCcS4AsEyBAgACBWQHFOavhbwIECBAgsERAcS4BskyAAAECBGYFFOeshr8JECBAgMASAcW5BMgyAQIECBCYFVCcsxr+JkCAAAECSwQU5xIgywQIECBAYFZAcc5q+JsAAQIECCwRUJxLgCwTIECAAIFZAcU5q+FvAgQIECCwREBxLgGyTIAAAQIEZgUU56yGvwkQIECAwBIBxbkEyDIBAgQIEJgVUJyzGv4mQIAAAQJLBBTnEiDLBAgQIEBgVkBxzmr4mwABAgQILBFQnEuALBMgQIAAgVkBxTmr4W8CBAgQILBEQHEuAbJMgAABAgRmBRTnrIa/CRAgQIDAEgHFuQTIMgECBAgQmBXYmH3wdyqBP2ym/dnYEx88ePDd999//+LY55Ta/7XXXvv1hx56aKvAeX/XnPGTAuc4ggCBwgKKszD4gMftbPbaM+B+nVtdvXp15+bm5ujndB4+wstdu3YVcWtG3z3C+LYkQCCAgJ9qA4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDII6A482RlUgIECBAIIKA4A4RgBAIECBDI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"></image>
             </g>
             <g id="Do-1" transform="translate(115.000000, 799.000000)">
-                <text id="make-large" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold" fill="#000000">
+                <text id="make-large" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
                     <tspan x="0" y="72">make large</tspan>
                     <tspan x="0" y="112">clickable actions</tspan>
                 </text>
@@ -333,7 +333,7 @@
             <g id="Group-5" transform="translate(443.000000, 1377.000000)">
                 <rect id="Rectangle-164" fill="#F47738" x="0" y="0" width="249" height="145" rx="8"></rect>
                 <path d="M102.5,81.5 L102.5,123.547592" id="Line" stroke="#0B0C0C" stroke-width="9" stroke-linecap="square"></path>
-                <text id="Tab" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="64" font-weight="bold" fill="#0B0C0C">
+                <text id="Tab" font-family="Helvetica, sans-serif" font-size="64" font-weight="bold" fill="#0B0C0C">
                     <tspan x="17" y="68">Tab</tspan>
                 </text>
                 <text id="" font-family="FontAwesome" font-size="82" font-weight="normal" fill="#0B0C0C">
@@ -346,11 +346,11 @@
             <text id="" font-family="FontAwesome" font-size="68" font-weight="normal" fill="#F47738">
                 <tspan x="1166" y="1785"></tspan>
             </text>
-            <text id="Your-session" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold" fill="#0B0C0C">
+            <text id="Your-session" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#0B0C0C">
                 <tspan x="1251" y="1750">Your session</tspan>
                 <tspan x="1251" y="1790">has timed out</tspan>
             </text>
-            <text id="Digital,-Data-and-Te" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" fill="#0B0C0C">
+            <text id="Digital,-Data-and-Te" font-family="Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#0B0C0C">
                 <tspan x="209" y="2285.5">Digital, Data and Technology</tspan>
             </text>
             <text id="For-more-information" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" line-spacing="36" fill="#000000">
