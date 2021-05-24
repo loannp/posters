@@ -29,10 +29,10 @@
             <path d="M26.74,1320.76 L1555.26,1320.76" id="Line" stroke="#85994B" stroke-width="8" stroke-linecap="square" transform="translate(791.000000, 1320.760000) rotate(90.000000) translate(-791.000000, -1320.760000) "></path>
             <path d="M120.980942,473 L1475.00037,473" id="Line" stroke="#85994B" stroke-width="8" stroke-linecap="square"></path>
             <text id="Do…" font-family="Source Sans Pro" font-size="100" font-weight="bold" fill="#000000">
-                <tspan x="112" y="624">Nên…</tspan>
+                <tspan x="112" y="624">NÊN…</tspan>
             </text>
             <text id="Don’t…" font-family="Source Sans Pro" font-size="100" font-weight="bold" fill="#000000">
-                <tspan x="860" y="624">Không nên…</tspan>
+                <tspan x="860" y="624">KHÔNG NÊN…</tspan>
             </text>
             <g id="Do-5" transform="translate(115.000000, 2007.000000)" font-family="Source Sans Pro" font-weight="bold">
                 <text id="write-descriptive" font-size="34" fill="#000000">
