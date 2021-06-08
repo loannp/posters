@@ -10,7 +10,7 @@
 	.st4{fill:#035EA5;}
 	.st5{fill:none;stroke:#3C3C3B;stroke-width:16.51;stroke-linecap:round;stroke-linejoin:round;}
 	.st6{fill:#3C3C3B;}
-	.st7{font-family:'Source Sans Pro';}
+	.st7{font-family:'Helvetica';}
 	.st8{font-size:44.29px;}
 	.st9{font-size:27px;}
 	.st10{font-size:18.12px;}
@@ -20,7 +20,7 @@
 	.st14{fill:#FFFFFF;}
 	.st15{fill:none;stroke:#9A9C00;stroke-width:9.269;}
 	.st16{fill:#9A9C00;}
-	.st17{font-family:'Source Sans Pro-Bold';}
+	.st17{font-family:'Helvetica-Bold';}
 	.st18{font-size:39.83px;}
 	.st19{fill:#F9F9F8;}
 	.st20{fill:none;stroke:#000000;stroke-width:10.05;}
@@ -32,20 +32,20 @@
 	.st26{fill:none;stroke:#000000;stroke-width:7.68;}
 	.st27{fill:#006F7A;}
 	.st28{enable-background:new    ;}
-	.st29{font-family:'Source Sans Pro-BoldH';}
+	.st29{font-family:'SourceHanSans-Bold-83pv-RKSJ-H';}
 	.st30{font-size:20px;}
 	.st31{font-size:34px;}
-	.st32{font-family:'Source Sans Pro-Bold';}
+	.st32{font-family:'SourceHanSans-Heavy-83pv-RKSJ-H';}
 	.st33{font-size:130px;}
 	.st34{font-size:100px;}
 	.st35{font-size:80px;}
 	.st36{fill-rule:evenodd;clip-rule:evenodd;fill:#AAB2AB;}
 	.st37{fill-rule:evenodd;clip-rule:evenodd;}
 	.st38{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-	.st39{font-family:'Source Sans Pro';}
+	.st39{font-family:'HelveticaNeue';}
 	.st40{font-size:12px;}
 	.st41{fill-rule:evenodd;clip-rule:evenodd;fill:none;}
-	.st42{font-family:'Source Sans Pro-Regular';}
+	.st42{font-family:'SourceHanSansJP-Normal-83pv-RKSJ-H';}
 	.st43{font-size:17px;}
 	.st44{letter-spacing:-8;}
 </style>
@@ -195,27 +195,27 @@
 	C727.3,1227.5,730,1224.8,730,1221.5 M519,1182.8v-104.3c0-3.3,2.7-5.9,5.9-5.9H710c3.3,0,5.9,2.7,5.9,5.9v104.3
 	c0,3.3-2.7,5.9-5.9,5.9H524.9C521.6,1188.7,519,1186,519,1182.8"/>
 <rect x="533.5" y="1090.7" class="st4" width="169.7" height="69"/>
-<text transform="matrix(1 0 0 1 558.3887 1121.5048)" class="st28"><tspan x="0" y="0" class="st14 st29 st30">Đã gửi</tspan><tspan x="0" y="24" class="st14 st29 st30">email xác nhận</tspan></text>
-<text transform="matrix(1 0 0 1 861 829.0754)" class="st28"><tspan x="0" y="0" class="st29 st31">Hối thúc</tspan><tspan x="0" y="45" class="st29 st31">hoặc đặt ra giới hạn thời gian</tspan><tspan x="0" y="90" class="st29 st31">không hợp lý</tspan></text>
+<text transform="matrix(1 0 0 1 558.3887 1121.5048)" class="st28"><tspan x="0" y="0" class="st14 st29 st30">確認メールを</tspan><tspan x="0" y="24" class="st14 st29 st30">送信しました</tspan></text>
+<text transform="matrix(1 0 0 1 861 829.0754)" class="st28"><tspan x="0" y="0" class="st29 st31">ユーザーを急がせたり、</tspan><tspan x="0" y="45" class="st29 st31">必要のない</tspan><tspan x="0" y="90" class="st29 st31">時間制限を設ける</tspan></text>
 <path class="st16" d="M619.3,750.4c-62,0-112.3,50.4-112.3,112.2c0,61.9,50.5,112.2,112.3,112.2c62,0,112.3-50.4,112.3-112.2
 	S681.3,750.4,619.3,750.4 M619.3,951.2c-49,0-88.7-39.7-88.7-88.6c0-48.9,39.8-88.6,88.7-88.6s88.7,39.7,88.7,88.6
 	C708,911.5,668.2,951.2,619.3,951.2"/>
 <path class="st16" d="M660.4,857.7h-30.6c-1.1-1.8-2.7-3.4-4.5-4.5v-36.7c0-3.9-3.1-7-7-7s-7,3.1-7,7v36.7
 	c-3.9,2.4-6.4,6.6-6.4,11.5c0,7.4,6,13.4,13.4,13.4c4.9,0,9.1-2.5,11.4-6.4h30.6c3.9,0,7-3.1,7-7
 	C667.4,860.9,664.2,857.7,660.4,857.7"/>
-<text transform="matrix(1 0 0 1 111.312 266.6739)" class="st32 st33">Thiết kế dành cho</text>
-<text transform="matrix(1 0 0 1 111 624.0047)" class="st32 st34">Nên</text>
-<text transform="matrix(1 0 0 1 854 624.0047)" class="st32 st34">Không nên</text>
-<text transform="matrix(1 0 0 1 115 851.5757)" class="st28"><tspan x="0" y="0" class="st29 st31">Dành đủ thời gian</tspan><tspan x="0" y="45" class="st29 st31">cho người dùng thao tác</tspan></text>
-<text transform="matrix(1 0 0 1 861 1123.0758)" class="st28"><tspan x="0" y="0" class="st29 st31">Khiến người dùng bị nhầm lẫn</tspan><tspan x="0" y="45" class="st29 st31">về các thao tác</tspan><tspan x="0" y="90" class="st29 st31">hoặc mốc thời gian tiếp theo</tspan></text>
-<text transform="matrix(1 0 0 1 115 1145.5758)" class="st28"><tspan x="0" y="0" class="st29 st31">Giải thích</tspan><tspan x="0" y="45" class="st29 st31">các bước tiếp theo</tspan></text>
-<text transform="matrix(1 0 0 1 861 1439.5752)" class="st28"><tspan x="0" y="0" class="st29 st31">Không giải thích</tspan><tspan x="0" y="45" class="st29 st31">về kết quả của thao tác</tspan></text>
-<text transform="matrix(1 0 0 1 115 1462.0759)" class="st29 st31">Làm nổi bật những thông tin quan trọng</text>
-<text transform="matrix(1 0 0 1 861 1738.3457)" class="st28"><tspan x="0" y="0" class="st29 st31">Gây khó khăn</tspan><tspan x="0" y="45" class="st29 st31">khi nhận sự trợ giúp</tspan></text>
-<text transform="matrix(1 0 0 1 115 1738.3464)" class="st28"><tspan x="0" y="0" class="st29 st31">Cung cấp sự hỗ trợ để</tspan><tspan x="0" y="45" class="st29 st31">giúp người dùng hoàn thành thao tác</tspan></text>
-<text transform="matrix(1 0 0 1 861 2037.116)" class="st28"><tspan x="0" y="0" class="st29 st31">Để người dùng không nắm rõ</tspan><tspan x="0" y="45" class="st29 st31">những thông tin họ đã nhập</tspan></text>
-<text transform="matrix(1 0 0 1 115 2037.1167)" class="st28"><tspan x="0" y="0" class="st29 st31">Cho phép người dùng xem lại</tspan><tspan x="0" y="45" class="st29 st31">thông tin trước khi gửi</tspan></text>
-<text transform="matrix(1 0 0 1 110 389.7138)" class="st32 st35">người mắc chứng Rối loạn lo âu</text>
+<text transform="matrix(1 0 0 1 111.312 266.6739)" class="st32 st33">不安状態</text>
+<text transform="matrix(1 0 0 1 111 624.0047)" class="st32 st34">すること</text>
+<text transform="matrix(1 0 0 1 854 624.0047)" class="st32 st34">しないこと</text>
+<text transform="matrix(1 0 0 1 115 851.5757)" class="st28"><tspan x="0" y="0" class="st29 st31">操作を終えるのに</tspan><tspan x="0" y="45" class="st29 st31">十分な時間がある</tspan></text>
+<text transform="matrix(1 0 0 1 861 1123.0758)" class="st28"><tspan x="0" y="0" class="st29 st31">次にすることや</tspan><tspan x="0" y="45" class="st29 st31">時間制限で</tspan><tspan x="0" y="90" class="st29 st31">利用者を混乱させる</tspan></text>
+<text transform="matrix(1 0 0 1 115 1145.5758)" class="st28"><tspan x="0" y="0" class="st29 st31">これから</tspan><tspan x="0" y="45" class="st29 st31">何が起こるかを説明する</tspan></text>
+<text transform="matrix(1 0 0 1 861 1439.5752)" class="st28"><tspan x="0" y="0" class="st29 st31">操作の結果が</tspan><tspan x="0" y="45" class="st29 st31">はっきりわからない</tspan></text>
+<text transform="matrix(1 0 0 1 115 1462.0759)" class="st29 st31">重要な情報は明確に</text>
+<text transform="matrix(1 0 0 1 861 1738.3457)" class="st28"><tspan x="0" y="0" class="st29 st31">サポートやヘルプに</tspan><tspan x="0" y="45" class="st29 st31">アクセスしづらい</tspan></text>
+<text transform="matrix(1 0 0 1 115 1738.3464)" class="st28"><tspan x="0" y="0" class="st29 st31">操作を完了するために</tspan><tspan x="0" y="45" class="st29 st31">必要なサポートを提供する</tspan></text>
+<text transform="matrix(1 0 0 1 861 2037.116)" class="st28"><tspan x="0" y="0" class="st29 st31">質問に回答した</tspan><tspan x="0" y="45" class="st29 st31">ユーザーを放置しない</tspan></text>
+<text transform="matrix(1 0 0 1 115 2037.1167)" class="st28"><tspan x="0" y="0" class="st29 st31">ユーザーが送信前に</tspan><tspan x="0" y="45" class="st29 st31">入力内容を確認できる</tspan></text>
+<text transform="matrix(1 0 0 1 110 389.7138)" class="st32 st35">のためのデザイン</text>
 <g>
 	<g id="by-nc-sa" transform="translate(496.000000, 2244.000000)">
 		<g id="svg2759">
@@ -319,11 +319,11 @@
 			</g>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 187.9536 2248)" class="st39 st40">Nội dung này đượgit c cấp giấy phép Creative Commons Attribution-</text>
-	<text transform="matrix(1 0 0 1 187.9536 2266)" class="st39 st40">NonCommercial-ShareAlike 4.0 International License. Để xem giấy phép</text>
-	<text transform="matrix(1 0 0 1 187.9536 2284)" class="st39 st40">hãy truy cập http://creativecommons.org/licenses/by-nc-sa/4.0/.</text>
+	<text transform="matrix(1 0 0 1 187.9536 2248)" class="st39 st40">This work is licensed under the Creative Commons Attribution-</text>
+	<text transform="matrix(1 0 0 1 187.9536 2266)" class="st39 st40">NonCommercial-ShareAlike 4.0 International License. To view a copy of </text>
+	<text transform="matrix(1 0 0 1 187.9536 2284)" class="st39 st40">this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.</text>
 </g>
 <rect x="707.5" y="2224.2" class="st41" width="822.4" height="86.8"/>
-<text transform="matrix(1 0 0 1 707.5385 2239.1938)"><tspan x="0" y="0" class="st42 st43">Nội dung poster tăng khả năng tiếp cận gốc do Bộ Nội vụ Vương quốc Anh phát hành và được dịch sang tiếng Việt</tspan><tspan x="786.8" y="0" class="st42 st43 st44">。</tspan><tspan x="0" y="27" class="st42 st43">Bản gốc đang được chia sẻ công khai trên GitHUb</tspan><tspan x="267" y="27" class="st42 st43 st44">。</tspan><tspan x="0" y="54" class="st42 st43">https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts</tspan></text>
+<text transform="matrix(1 0 0 1 707.5385 2239.1938)"><tspan x="0" y="0" class="st42 st43">英国内務省（UK Home Office）が制作した、アクセシビリティの啓発ポスターを日本語訳したものです</tspan><tspan x="786.8" y="0" class="st42 st43 st44">。</tspan><tspan x="0" y="27" class="st42 st43">原本は GitHub に公開されています</tspan><tspan x="267" y="27" class="st42 st43 st44">。</tspan><tspan x="0" y="54" class="st42 st43">https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts</tspan></text>
 <text transform="matrix(1 0 0 1 1402.1696 2291.2065)" class="st39 st40">thanks: A11YJ Slack Team</text>
 </svg>
