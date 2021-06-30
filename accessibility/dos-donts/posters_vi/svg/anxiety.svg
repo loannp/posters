@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="1502px" height="2245px" viewBox="0 0 1502 2245" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
-    <title>anxiety</title>
-    <desc>Created with Sketch.</desc>
+    <title>người bị rối loạn lo âu</title>
+    <desc>Tạo bằng Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="anxiety">
@@ -12,11 +12,11 @@
             <rect id="Rectangle-2" fill="#FFFFFF" fill-rule="nonzero" opacity="0.5" x="0" y="1859.54078" width="1502" height="294.440002"></rect>
             <path d="M76.980942,423 L1431.00037,423" id="Line" stroke="#035EA5" stroke-width="8" stroke-linecap="square"></path>
             <path d="M-17.757995,1271 L1510.75799,1271" id="Line" stroke="#035EA5" stroke-width="8" stroke-linecap="square" transform="translate(746.500000, 1275.000000) rotate(90.000000) translate(-746.500000, -1275.000000) "></path>
-            <text id="Do…" fill="#000000" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="100" font-weight="bold">
-                <tspan x="67" y="574">Do…</tspan>
+            <text id="Do…" fill="#000000" font-family="Source Sans Pro" font-size="100" font-weight="bold">
+                <tspan x="67" y="574">Nên</tspan>
             </text>
-            <text id="Don’t…" fill="#000000" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="100" font-weight="bold">
-                <tspan x="810" y="574">Don’t…</tspan>
+            <text id="Don’t…" fill="#000000" font-family="Source Sans Pro" font-size="100" font-weight="bold">
+                <tspan x="810" y="574">Không nên</tspan>
             </text>
             <g id="Footer" transform="translate(2.000000, 2172.000000)">
                 <g id="HO_logo" transform="translate(0.000000, 10.000000)" fill-rule="nonzero">
@@ -124,13 +124,13 @@
                     <polyline id="Fill-102" fill="#000106" points="21.0525312 16.1244859 21.0590312 16.1314859 21.0590312 16.1174859 21.0525312 16.1244859"></polyline>
                     <path d="M21.2264293,16.1192748 C21.2507401,16.1370684 21.2682839,16.1655381 21.2682839,16.2008711 C21.2682839,16.2611151 21.2194117,16.3109372 21.1600132,16.3109372 C21.1006148,16.3109372 21.0514919,16.2646738 21.0479832,16.2044298 L21.0479832,16.3144959 C21.0479832,16.4492188 21.1600132,16.5625895 21.2963541,16.5625895 C21.4362037,16.5625895 21.5479832,16.4492188 21.5479832,16.3144959 C21.5479832,16.1762143 21.4362037,16.0625895 21.2963541,16.0625895 C21.2893366,16.0625895 21.2858278,16.0661482 21.2753015,16.0661482 L21.2264293,16.1192748" id="Fill-103" fill="#000106"></path>
                 </g>
-                <text id="Digital,-Data-and-Technology" fill="#0B0C0C" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold">
-                    <tspan x="163" y="63.5">Digital, Data and Technology</tspan>
+                <text id="Digital,-Data-and-Technology" fill="#0B0C0C" font-family="Source Sans Pro" font-size="18" font-weight="bold">
+                    <tspan x="163" y="63.5">Số hóa, Dữ liệu, và Công nghệ</tspan>
                 </text>
-                <text id="For-more-information,-contact:" fill="#000000" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal">
-                    <tspan x="1064.56" y="30">For more information, contact:</tspan>
+                <text id="For-more-information,-contact:" fill="#000000" font-family="Source Sans Pro" font-size="32" font-weight="normal">
+                    <tspan x="1064.56" y="30">Để biết thêm thông tin, liên hệ:</tspan>
                 </text>
-                <text id="access@digital.homeoffice.gov.uk" fill="#000000" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal">
+                <text id="access@digital.homeoffice.gov.uk" fill="#000000" font-family="Source Sans Pro" font-size="32" font-weight="normal">
                     <tspan x="1014" y="66">access@digital.homeoffice.gov.uk</tspan>
                 </text>
                 <g id="by-nc-sa" transform="translate(450.000000, 22.000000)" fill-rule="nonzero">
@@ -180,14 +180,14 @@
                         </g>
                     </g>
                 </g>
-                <text id="This-work-is-licensed-under-the-Creative-Commons-Attribution-" fill="#000000" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal">
-                    <tspan x="595" y="26">This work is licensed under the Creative Commons Attribution-</tspan>
+                <text id="This-work-is-licensed-under-the-Creative-Commons-Attribution-" fill="#000000" font-family="Source Sans Pro" font-size="12" font-weight="normal">
+                    <tspan x="595" y="26">Tài liệu này được cấp giấy phép Creative Commons Attribution-</tspan>
                 </text>
-                <text id="NonCommercial-ShareAlike-4.0-International-License.-To-view-a-copy-of" fill="#000000" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal">
-                    <tspan x="595" y="44">NonCommercial-ShareAlike 4.0 International License. To view a copy of</tspan>
+                <text id="NonCommercial-ShareAlike-4.0-International-License.-To-view-a-copy-of" fill="#000000" font-family="Source Sans Pro" font-size="12" font-weight="normal">
+                    <tspan x="595" y="44">NonCommercial-ShareAlike 4.0 International License. Để xem</tspan>
                 </text>
-                <text id="this-license,-visit-http://creativecommons.org/licenses/by-nc-sa/4.0/." fill="#000000" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal">
-                    <tspan x="595" y="62">this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.</tspan>
+                <text id="this-license,-visit-http://creativecommons.org/licenses/by-nc-sa/4.0/." fill="#000000" font-family="Source Sans Pro" font-size="12" font-weight="normal">
+                    <tspan x="595" y="62">giấy phép này, xin vui lòng truy cập http://creativecommons.org/licenses/by-nc-sa/4.0/.</tspan>
                 </text>
             </g>
             <g id="Header" transform="translate(66.000000, 61.000000)">
@@ -199,49 +199,49 @@
                     <path d="M79.4408638,127.03335 C88.9906875,124.932852 94.6159261,116.005735 98.4096917,107.603743 C102.072638,99.464313 105.604764,90.5371962 97.4939551,84.1044209 C81.2723369,71.5014325 60.995314,81.4787983 51.9687684,97.6263772 C42.2881252,114.955486 42.5497642,143.968616 66.6205526,148.432174 C89.383146,152.764451 113.715573,131.496908 122.742119,112.198582 C127.84408,101.302249 130.32965,87.255168 125.09687,75.9649909 C119.733271,64.2809705 107.828696,60.3425366 96.0549406,58.1107574 C88.9906875,56.7979461 85.981839,67.5629987 93.0460921,68.87581 C100.764443,70.3199024 110.183447,71.8952759 114.369671,79.5095814 C119.471632,88.6992604 115.808685,101.564811 111.099183,110.098084 C103.904111,123.094916 80.0949614,146.200395 63.7425236,135.435342 C48.0441833,125.195414 59.687119,97.3638149 73.5539862,91.0623207 C79.1792248,88.4366981 92.5228141,88.4366981 90.5605215,97.2325338 C89.121507,103.927871 83.6270879,114.561643 76.4320153,116.137016 C69.4985817,117.71239 72.3766107,128.477442 79.4408638,127.03335" id="Shape" fill="#000000"></path>
                     <path d="M167.304775,6.36694663 C174.007299,12.8235159 179.54977,24.6825207 171.30051,32.5885238 C167.691459,36.0144585 161.504515,36.5415254 158.024358,32.5885238 C153.770834,27.8449219 158.153253,20.9930525 163.953514,21.7836528 C168.593722,22.3107197 168.593722,14.8000167 163.953514,14.2729498 C155.962043,13.3505828 148.872836,20.3342189 149.001731,28.5037555 C149.001731,36.8050589 156.864306,42.866328 164.597987,42.9980947 C173.105036,43.1298614 180.065349,36.4097587 182.256558,28.2402221 C184.963346,17.962418 179.936454,7.94814727 172.718352,1.09627785 C169.109301,-2.32965686 163.824619,3.07277864 167.304775,6.36694663" id="Shape" fill="#000000"></path>
                 </g>
-                <text id="Designing-for-users" fill="#000000" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="80" font-weight="bold">
-                    <tspan x="0" y="135">Designing for users with</tspan>
+                <text id="Designing-for-users" fill="#000000" font-family="Source Sans Pro" font-size="80" font-weight="bold">
+                    <tspan x="0" y="135">Thiết kế dành cho</tspan>
                 </text>
-                <text id="anxiety" fill="#000000" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="123" font-weight="bold">
-                    <tspan x="1.312" y="271">anxiety</tspan>
+                <text id="anxiety" fill="#000000" font-family="Source Sans Pro" font-size="123" font-weight="bold">
+                    <tspan x="1.312" y="271">người rối loạn lo âu</tspan>
                 </text>
             </g>
             <g id="Dont-5" transform="translate(820.000000, 1891.000000)">
                 <path d="M606,53.5 C606,73.089939 590.089939,89 570.5,89 C550.910061,89 535,73.089939 535,53.5 C535,33.910061 550.910061,18 570.5,18 C590.089939,18 606,33.910061 606,53.5" id="Shape" fill="#035EA5" fill-rule="nonzero"></path>
                 <polyline id="Shape" stroke="#3C3C3B" stroke-width="16.51" stroke-linecap="round" stroke-linejoin="round" points="404 125 434.053667 204 524 204"></polyline>
                 <path d="M558.20435,166.332928 L560.237061,161.934422 L565.800271,213 L624,213 L613.72946,118.70033 C612.017703,102.822797 600.035406,92.0947347 581.84799,93.0602604 C570.828556,93.5966635 561.306909,102.179114 559.809122,105.397532 L538.412163,151.420921 L482.13816,170.945995 C475.826057,173.091607 472.509528,180.064848 474.649224,186.394405 C476.360981,191.436594 481.068312,194.547732 486.096597,194.547732 C487.380415,194.547732 488.771217,194.333171 490.055035,193.904049 L551.250338,172.662485 C554.352897,171.589678 556.813548,169.229505 558.20435,166.332928" id="Shape" fill="#035EA5" fill-rule="nonzero"></path>
-                <text id="?" fill="#3C3C3B" font-family="Helvetica" font-size="44.2900009" font-weight="normal">
+                <text id="?" fill="#3C3C3B" font-family="Source Sans Pro" font-size="44.2900009" font-weight="normal">
                     <tspan x="459" y="125">?</tspan>
                 </text>
-                <text id="?" fill="#3C3C3B" font-family="Helvetica" font-size="27" font-weight="normal">
+                <text id="?" fill="#3C3C3B" font-family="Source Sans Pro" font-size="27" font-weight="normal">
                     <tspan x="426" y="117">?</tspan>
                 </text>
-                <text id="?" fill="#3C3C3B" font-family="Helvetica" font-size="27" font-weight="normal">
+                <text id="?" fill="#3C3C3B" font-family="Source Sans Pro" font-size="27" font-weight="normal">
                     <tspan x="446" y="156">?</tspan>
                 </text>
-                <text id="?" fill="#3C3C3B" font-family="Helvetica" font-size="18.1200008" font-weight="normal">
+                <text id="?" fill="#3C3C3B" font-family="Source Sans Pro" font-size="18.1200008" font-weight="normal">
                     <tspan x="429" y="151">?</tspan>
                 </text>
-                <text id="?" fill="#3C3C3B" font-family="Helvetica" font-size="44.2900009" font-weight="normal">
+                <text id="?" fill="#3C3C3B" font-family="Source Sans Pro" font-size="44.2900009" font-weight="normal">
                     <tspan x="436" y="77">?</tspan>
                 </text>
-                <text id="?" fill="#3C3C3B" font-family="Helvetica" font-size="80.0199966" font-weight="normal">
+                <text id="?" fill="#3C3C3B" font-family="Source Sans Pro" font-size="80.0199966" font-weight="normal">
                     <tspan x="474" y="78">?</tspan>
                 </text>
-                <text id="leave-users-question" fill="#000000" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold">
-                    <tspan x="0" y="86">leave users </tspan>
-                    <tspan x="0" y="126.986237">questioning what </tspan>
-                    <tspan x="0" y="167.972473">answers they gave</tspan>
+                <text id="leave-users-question" fill="#000000" font-family="Source Sans Pro" font-size="34" font-weight="bold">
+                    <tspan x="0" y="86">Để người dùng </tspan>
+                    <tspan x="0" y="126.986237">không nắm rõ </tspan>
+                    <tspan x="0" y="167.972473">những thông tin họ đã nhập</tspan>
                 </text>
             </g>
             <g id="Dont-4" transform="translate(820.000000, 1594.000000)">
                 <path d="M406,57 L406,171 C406,197.752874 406,228 448.672726,228 L505.497122,228 C537.610526,228 545.448374,210.856322 547.407835,190.873563 L601.837333,122.954023 C606.409411,117.275862 605.973975,109.086207 600.857602,103.954023 C599.115858,102.206897 589.645126,93.4712644 576.037751,93.4712644 C569.941648,93.4712644 561.01521,95.3275862 552.30649,103.954023 L533.90932,122.408046 L533.90932,28.5 C533.90932,20.637931 527.486639,14.1954023 519.648792,14.1954023 L505.497122,14.1954023 C505.497122,6.33333333 499.074441,0 491.345453,0 L477.084924,0 C469.247077,0 462.933255,6.44252874 462.933255,14.1954023 L448.781585,14.1954023 C440.943738,14.1954023 434.521057,20.637931 434.521057,28.5 L434.521057,42.6954023 L420.369387,42.6954023 C412.313822,42.6954023 406,49.137931 406,57" id="Shape" fill="#860A3D" fill-rule="nonzero"></path>
                 <path d="M420.109195,56.6739606 L434.413793,56.6739606 L434.413793,70.9349015 L434.413793,113.5 L448.609195,113.5 L448.609195,42.4130197 L448.609195,28.2609409 L462.804598,28.2609409 L462.804598,42.4130197 L462.804598,113.5 L477,113.5 L477,28.2609409 L477,14 L491.304598,14 L491.304598,28.2609409 L491.304598,113.5 L505.609195,113.5 L505.609195,56.6739606 L505.609195,42.4130197 L505.609195,28.2609409 L519.804598,28.2609409 L519.804598,42.4130197 L519.804598,56.6739606 L519.804598,141.91302 L534,141.91302 L534,142.021882 C534,142.021882 548.195402,127.869803 562.5,113.608862 C567.304598,108.92779 572,107.294858 576.258621,107.294858 C584.666667,107.294858 591,113.608862 591,113.608862 L534,184.369256 L534,184.58698 L533.781609,184.58698 C533.017241,203.420131 528.758621,213 505.5,213 L448.5,213 C420,213 420,198.847921 420,170.326039 L420,70.9349015 L420,56.6739606 L420.109195,56.6739606 Z" id="Shape" fill="#BE8190" fill-rule="nonzero"></path>
                 <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="455.887661 191 475.554328 171.369485 495.220994 191 505 181.130515 485.333333 161.5 505 141.869485 495.220994 132 475.554328 151.738971 455.887661 132 446 141.869485 465.666667 161.5 446 181.130515"></polygon>
-                <text id="make-support-or-help" fill="#000000" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold">
-                    <tspan x="0" y="81">make support </tspan>
-                    <tspan x="0" y="121.986237">or help hard </tspan>
-                    <tspan x="0" y="162.972473">to access</tspan>
+                <text id="make-support-or-help" fill="#000000" font-family="Source Sans Pro" font-size="34" font-weight="bold">
+                    <tspan x="0" y="81">Gây khó khăn </tspan>
+                    <tspan x="0" y="121.986237">khi tìm </tspan>
+                    <tspan x="0" y="162.972473">sự trợ giúp</tspan>
                 </text>
             </g>
             <g id="Dont-3" transform="translate(820.000000, 1299.000000)">
@@ -253,25 +253,25 @@
                 <path d="M467.791615,76 L400.208385,76 C393.993835,76 389,80.0156556 389,84.8121331 L389,124.187867 C389,129.09589 394.104809,133 400.208385,133 L467.791615,133 C474.006165,133 479,128.984344 479,124.187867 L479,84.8121331 C479,79.9041096 473.895191,76 467.791615,76 Z" id="Shape" stroke="#9A9C00" stroke-width="9.269"></path>
                 <path d="M575.790061,76 L508.208164,76 C501.993736,76 497,80.0156556 497,84.8121331 L497,124.187867 C497,129.09589 502.104708,133 508.208164,133 L575.790061,133 C582.004488,133 586.998224,128.984344 586.998224,124.187867 L586.998224,84.8121331 C587.109196,79.9041096 582.004488,76 575.790061,76" id="Shape" fill="#9A9C00" fill-rule="nonzero"></path>
                 <path d="M575.790061,76 L508.208164,76 C501.993736,76 497,80.0156556 497,84.8121331 L497,124.187867 C497,129.09589 502.104708,133 508.208164,133 L575.790061,133 C582.004488,133 586.998224,128.984344 586.998224,124.187867 L586.998224,84.8121331 C587.109196,79.9041096 582.004488,76 575.790061,76 Z" id="Shape" stroke="#9A9C00" stroke-width="9.269"></path>
-                <text id="1" fill="#000000" font-family="Helvetica-Bold, Helvetica" font-size="39.8300018" font-weight="bold">
+                <text id="1" fill="#000000" font-family="Source Sans Pro" font-size="39.8300018" font-weight="bold">
                     <tspan x="423" y="43">1</tspan>
                 </text>
-                <text id="3" fill="#000000" font-family="Helvetica-Bold, Helvetica" font-size="39.8300018" font-weight="bold">
+                <text id="3" fill="#000000" font-family="Source Sans Pro" font-size="39.8300018" font-weight="bold">
                     <tspan x="423" y="119">3</tspan>
                 </text>
-                <text id="2" fill="#000000" font-family="Helvetica-Bold, Helvetica" font-size="39.8300018" font-weight="bold">
+                <text id="2" fill="#000000" font-family="Source Sans Pro" font-size="39.8300018" font-weight="bold">
                     <tspan x="531" y="43">2</tspan>
                 </text>
-                <text id="4" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="39.8300018" font-weight="bold">
+                <text id="4" fill="#FFFFFF" font-family="Source Sans Pro" font-size="39.8300018" font-weight="bold">
                     <tspan x="531" y="116">4</tspan>
                 </text>
                 <path d="M629.911355,200.231391 L577.512332,227 C577.512332,227 527.319583,203.4392 523.348288,201.669374 C520.480131,200.452619 521.803896,182.090681 531.070249,184.413577 L553.132996,188.83814 C553.132996,188.83814 525.995818,131.9825 523.348288,127.004866 C520.700758,122.027233 539.012838,108.311086 543.646015,116.607142 C549.823584,127.557937 559.972448,148.795841 559.972448,148.795841 L599.354451,140.278557 C599.354451,140.278557 608.289864,141.495312 612.261158,149.459526 C616.342766,157.42374 635.757983,187.289543 629.911355,200.231391" id="Shape" fill="#F9F9F8" fill-rule="nonzero"></path>
                 <path d="M630.901368,200.994501 L578.021619,228 C578.021619,228 527.368386,204.230697 523.360658,202.44521 C520.466187,201.217687 521.802097,182.693254 531.153463,185.036706 L553.41862,189.500425 C553.41862,189.500425 526.032477,132.141637 523.360658,127.119954 C520.688839,122.09827 539.168919,108.260742 543.844603,116.630214 C550.078847,127.677919 560.320819,149.103769 560.320819,149.103769 L600.064125,140.51111 C600.064125,140.51111 609.081514,141.738633 613.089242,149.773327 C617.208296,157.808021 636.801635,187.938123 630.901368,200.994501 Z" id="Shape" stroke="#000000" stroke-width="10.05"></path>
-                <text id="leave-users-uncertai" fill="#000000" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold">
-                    <tspan x="0" y="63">leave users </tspan>
-                    <tspan x="0" y="103.986237">uncertain about </tspan>
-                    <tspan x="0" y="144.972473">the consequences </tspan>
-                    <tspan x="0" y="185.95871">of their actions</tspan>
+                <text id="leave-users-uncertai" fill="#000000" font-family="Source Sans Pro" font-size="34" font-weight="bold">
+                    <tspan x="0" y="63">Không </tspan>
+                    <tspan x="0" y="103.986237">giải thích </tspan>
+                    <tspan x="0" y="144.972473">về kết quả </tspan>
+                    <tspan x="0" y="185.95871">của thao tác</tspan>
                 </text>
             </g>
             <g id="Dont-2" transform="translate(820.000000, 1016.000000)">
@@ -282,21 +282,21 @@
                 <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="503 78.9636364 517.984375 78.9636364 517.984375 89 538 74.0545455 517.984375 59 517.984375 69.0363636 503 69.0363636"></polygon>
                 <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="488.818182 83 488.818182 98.046729 479 98.046729 494.054545 118 509 98.046729 498.854545 98.046729 498.854545 83"></polygon>
                 <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="483 78.9636364 468.015625 78.9636364 468.015625 89 448 74.0545455 468.015625 59 468.015625 69.0363636 483 69.0363636"></polygon>
-                <text id="leave-users-confusd" fill="#000000" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold">
-                    <tspan x="0" y="49">leave users </tspan>
-                    <tspan x="0" y="89.9862366">confused about </tspan>
-                    <tspan x="0" y="130.972473">next steps or </tspan>
-                    <tspan x="0" y="171.95871">timeframes</tspan>
+                <text id="leave-users-confusd" fill="#000000" font-family="Source Sans Pro" font-size="34" font-weight="bold">
+                    <tspan x="0" y="49">Khiến người dùng </tspan>
+                    <tspan x="0" y="89.9862366">bị nhầm lẫn về </tspan>
+                    <tspan x="0" y="130.972473">các thao tác </tspan>
+                    <tspan x="0" y="171.95871">hoặc mốc thời gian</tspan>
                 </text>
             </g>
             <g id="Dont-1" transform="translate(820.000000, 710.000000)">
                 <path d="M559.216867,22.1953578 L571,22.1953578 L571,0 L408,0 L408,22.1953578 L422.074297,22.1953578 C423.819946,64.6276596 439.421687,92.3718569 466.47925,101.402321 L466.47925,125.012089 C439.748996,133.933752 424.256359,161.133946 422.1834,202.804642 L408,202.804642 L408,225 L570.890897,225 L570.890897,202.804642 L558.998661,202.804642 C556.925703,161.133946 541.433066,133.933752 514.702811,125.012089 L514.702811,101.402321 C541.869478,92.4806576 557.362115,64.6276596 559.216867,22.1953578 L559.216867,22.1953578 Z M507.829317,134.586557 C537.723561,142.09381 546.451807,173.972437 547.97925,202.804642 L433.421017,202.804642 C434.839357,173.972437 443.567604,142.09381 473.461847,134.586557 L477.716867,133.498549 L477.716867,92.9158607 L473.461847,91.827853 C443.022088,84.2117988 434.621151,51.462766 433.311914,22.1953578 L548.088353,22.1953578 C546.779116,51.462766 538.378179,84.2117988 507.93842,91.827853 L503.6834,92.9158607 L503.6834,133.498549 L507.829317,134.586557 Z" id="Shape" fill="#3C3C3B" fill-rule="nonzero"></path>
                 <polygon id="Shape" fill="#860A3D" fill-rule="nonzero" points="515 68 469 68 480.472941 81.5 491.945882 95 503.527059 81.5"></polygon>
                 <polygon id="Shape" fill="#860A3D" fill-rule="nonzero" points="490.674095 149 452 202 530 202"></polygon>
-                <text id="rush-users-or-set-im" fill="#000000" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold">
-                    <tspan x="0" y="85">rush users or set </tspan>
-                    <tspan x="0" y="125.986237">impractical time </tspan>
-                    <tspan x="0" y="166.972473">limits</tspan>
+                <text id="rush-users-or-set-im" fill="#000000" font-family="Source Sans Pro" font-size="34" font-weight="bold">
+                    <tspan x="0" y="85">Hối thúc hoặc đặt ra </tspan>
+                    <tspan x="0" y="125.986237">giới hạn thời gian </tspan>
+                    <tspan x="0" y="166.972473">không hợp lý</tspan>
                 </text>
             </g>
             <g id="Do-5" transform="translate(71.000000, 1912.000000)">
@@ -309,11 +309,11 @@
                 <path d="M441.0859,0.750105767 C438.990044,-0.539967339 436.122029,-0.109942971 434.577714,1.6101545 L411.08206,29.5617385 L403.250176,20.9612511 C401.705861,19.2411536 398.727538,18.9186353 396.74199,20.3162145 C394.756442,21.7137937 394.425517,24.1864339 395.969832,26.0140374 L411.412985,43 L442.078674,6.44792865 C443.622989,4.62032509 443.181756,2.04017887 441.0859,0.750105767" id="Shape" fill="#575756" fill-rule="nonzero"></path>
                 <path d="M441.0859,63.7501058 C438.990044,62.4600327 436.122029,62.890057 434.577714,64.6101545 L411.08206,92.5617385 L403.250176,83.9612511 C401.705861,82.2411536 398.727538,81.9186353 396.74199,83.3162145 C394.756442,84.7137937 394.425517,87.1864339 395.969832,89.0140374 L411.412985,106 L442.078674,69.4479287 C443.622989,67.6203251 443.181756,65.0401789 441.0859,63.7501058" id="Shape" fill="#575756" fill-rule="nonzero"></path>
                 <path d="M441.0859,120.750106 C438.990044,119.460033 436.122029,119.890057 434.577714,121.610155 L411.08206,149.561738 L403.250176,140.961251 C401.705861,139.241154 398.727538,138.918635 396.74199,140.316215 C394.756442,141.713794 394.425517,144.186434 395.969832,146.014037 L411.412985,163 L442.078674,126.447929 C443.622989,124.620325 443.181756,122.040179 441.0859,120.750106" id="Shape" fill="#575756" fill-rule="nonzero"></path>
-                <text id="let-users-check-thei" fill="#000000" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold">
-                    <tspan x="0" y="41">let users check </tspan>
-                    <tspan x="0" y="81.9862366">their answers </tspan>
-                    <tspan x="0" y="122.972473">before they </tspan>
-                    <tspan x="0" y="163.95871">submit them</tspan>
+                <text id="let-users-check-thei" fill="#000000" font-family="Source Sans Pro" font-size="34" font-weight="bold">
+                    <tspan x="0" y="41">Cho phép người dùng </tspan>
+                    <tspan x="0" y="81.9862366">xem lại </tspan>
+                    <tspan x="0" y="122.972473">thông tin </tspan>
+                    <tspan x="0" y="163.95871">trước khi gửi</tspan>
                 </text>
             </g>
             <g id="Do-4" transform="translate(71.000000, 1600.000000)">
@@ -325,11 +325,11 @@
                 <path d="M555.11206,42.7253602 L555.11206,42.7253602 C544.647236,42.7253602 537.531156,44.2612392 532.647571,47.0537464 C529.71742,48.7292507 529.856951,53.0576369 532.647571,55.0123919 C542.41474,61.8540346 542.41474,74.6995677 542.41474,89.2206052 L542.41474,94.8056196 L582.739196,94.8056196 C585.390285,94.8056196 587.48325,92.7112392 587.48325,90.0583573 L587.48325,82.2393372 C587.622781,60.457781 587.622781,42.7253602 555.11206,42.7253602" id="Shape" fill="#BA7100" fill-rule="nonzero"></path>
                 <path d="M421.162312,191.565994 L411.534673,191.565994 C407.348744,191.565994 404,188.214986 404,184.026225 L404,124.964697 C404,120.775937 407.348744,117.424928 411.534673,117.424928 L421.162312,117.424928 C425.348241,117.424928 428.696985,120.775937 428.696985,124.964697 L428.696985,184.026225 C428.696985,188.214986 425.348241,191.565994 421.162312,191.565994 Z" id="Shape" stroke="#000000" stroke-width="7.68"></path>
                 <path d="M542.41474,152.750144 C542.41474,152.750144 579.809045,143.674496 585.948409,141.859366 C596.552764,138.647983 600.320101,153.587896 598.366667,157.776657 C594.738861,165.456052 512.973702,195.056628 512.973702,195.056628 C512.973702,195.056628 506.694807,197.151009 501.532161,195.056628 C493.160302,190.169741 429.673702,181.233718 427.301675,182.629971 L427.441206,127.059078 C427.441206,127.059078 448.370854,133.90072 458.696147,129.71196 C467.4866,126.360951 477.114238,118.26268 490.09062,127.198703 C503.067002,136.134726 530.275544,146.048127 534.880067,147.304755 C545.20536,150.376513 541.298492,166.433429 529.856951,166.293804 L491.764992,155.821902" id="Shape" stroke="#000000" stroke-width="7.68"></path>
-                <text id="give-users-the-suppo" fill="#000000" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold">
-                    <tspan x="0" y="52">give users the </tspan>
-                    <tspan x="0" y="92.9862366">support they </tspan>
-                    <tspan x="0" y="133.972473">need to complete </tspan>
-                    <tspan x="0" y="174.95871">a service</tspan>
+                <text id="give-users-the-suppo" fill="#000000" font-family="Source Sans Pro" font-size="34" font-weight="bold">
+                    <tspan x="0" y="52">Cung cấp </tspan>
+                    <tspan x="0" y="92.9862366">sự hỗ trợ </tspan>
+                    <tspan x="0" y="133.972473">để giúp người dùng </tspan>
+                    <tspan x="0" y="174.95871">hoàn thành thao tác</tspan>
                 </text>
             </g>
             <g id="Do-3" transform="translate(71.000000, 1321.000000)">
@@ -341,33 +341,33 @@
                 <path d="M419,125.058824 C419,131.176471 414.085106,136 408,136 C401.914894,136 397,131.058824 397,125.058824 C397,118.941176 401.914894,114 408,114 C414.085106,114 419,118.941176 419,125.058824" id="Shape" fill="#1A2B68" fill-rule="nonzero"></path>
                 <path d="M605.428946,147 L437.586117,147 C433.437459,147 430,149.822727 430,153.136364 L430,167.863636 C430,171.3 433.437459,174 437.586117,174 L605.428946,174 C608.510806,174 611,171.913636 611,169.459091 L611,151.418182 C611,149.086364 608.392272,147 605.428946,147" id="Shape" fill="#1A2B68" fill-rule="nonzero"></path>
                 <path d="M419,161.058824 C419,167.176471 414.085106,172 408,172 C401.914894,172 397,167.058824 397,161.058824 C397,154.941176 401.914894,150 408,150 C414.085106,150.117647 419,154.941176 419,161.058824" id="Shape" fill="#1A2B68" fill-rule="nonzero"></path>
-                <text id="make-important-infor" fill="#000000" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold">
-                    <tspan x="0" y="78">make important </tspan>
-                    <tspan x="0" y="118.986237">information clear</tspan>
+                <text id="make-important-infor" fill="#000000" font-family="Source Sans Pro" font-size="34" font-weight="bold">
+                    <tspan x="0" y="78">Làm nổi bật những </tspan>
+                    <tspan x="0" y="118.986237">thông tin quan trọng</tspan>
                 </text>
             </g>
             <g id="Do-2" transform="translate(71.000000, 1017.000000)">
                 <rect id="Rectangle-path" fill="#EDEDED" fill-rule="nonzero" x="400" y="5" width="210" height="137"></rect>
                 <path d="M615,162.991874 L615,5.89385475 C615,2.57186389 612.323977,0 609.11275,0 L395.88725,0 C392.568982,0 390,2.67902489 390,5.89385475 L390,162.991874 C390,166.313865 392.676023,168.885729 395.88725,168.885729 L468.353949,168.885729 C471.672217,168.885729 474.241199,171.564754 474.241199,174.779584 L474.241199,191.068055 C474.241199,194.390046 471.565176,196.96191 468.353949,196.96191 L423.93197,196.96191 C420.613701,196.96191 418.044719,199.640934 418.044719,202.855764 L418.044719,205.106145 C418.044719,208.428136 420.720742,211 423.93197,211 L580.853949,211 C584.172217,211 586.741199,208.320975 586.741199,205.106145 L586.741199,202.855764 C586.741199,199.533773 584.065176,196.96191 580.853949,196.96191 L536.43197,196.96191 C533.113701,196.96191 530.544719,194.282885 530.544719,191.068055 L530.544719,174.779584 C530.544719,171.457593 533.220742,168.885729 536.43197,168.885729 L609.005709,168.885729 C612.323977,168.99289 615,166.313865 615,162.991874 M404.02236,124.306755 L404.02236,20.0391061 C404.02236,16.7171153 406.698382,14.1452514 409.90961,14.1452514 L594.983349,14.1452514 C598.301618,14.1452514 600.870599,16.8242763 600.870599,20.0391061 L600.870599,124.306755 C600.870599,127.628746 598.194577,130.200609 594.983349,130.200609 L409.90961,130.200609 C406.591342,130.200609 404.02236,127.521585 404.02236,124.306755" id="Shape" fill="#000000" fill-rule="nonzero"></path>
                 <rect id="Rectangle-path" fill="#035EA5" fill-rule="nonzero" x="418.525467" y="32.2445732" width="169.710568" height="68.9557834"></rect>
-                <text id="We-have-sent-you-an" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="17" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="449" y="63">We have sent </tspan>
-                    <tspan x="449" y="84">you an email</tspan>
+                <text id="We-have-sent-you-an" font-family="Source Sans Pro" font-size="17" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="449" y="63">Chúng tôi đã </tspan>
+                    <tspan x="449" y="84">gửi email cho bạn</tspan>
                 </text>
-                <text id="explain-what-will-ha" fill="#000000" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold">
-                    <tspan x="0" y="49">explain what </tspan>
-                    <tspan x="0" y="89.9862366">will happen after </tspan>
-                    <tspan x="0" y="130.972473">completing a </tspan>
-                    <tspan x="0" y="171.95871">service</tspan>
+                <text id="explain-what-will-ha" fill="#000000" font-family="Source Sans Pro" font-size="34" font-weight="bold">
+                    <tspan x="0" y="49">giải thích </tspan>
+                    <tspan x="0" y="89.9862366">các bước </tspan>
+                    <tspan x="0" y="130.972473">tiếp theo </tspan>
+                    <tspan x="0" y="171.95871">sau khi hoàn tất</tspan>
                 </text>
             </g>
             <g id="Do-1" transform="translate(71.000000, 708.000000)">
                 <path d="M504.30102,0.915924769 C442.307148,0.915924769 391.951531,51.3117436 391.951531,113.098398 C391.951531,175.000112 442.422378,225.280872 504.30102,225.280872 C566.294893,225.280872 616.65051,174.885053 616.65051,113.098398 C616.65051,51.3117436 566.294893,0.915924769 504.30102,0.915924769 M504.30102,201.693787 C455.328166,201.693787 415.573731,161.998451 415.573731,113.098398 C415.573731,64.1983457 455.328166,24.5030089 504.30102,24.5030089 C553.273875,24.5030089 593.02831,64.1983457 593.02831,113.098398 C593.02831,161.998451 553.158645,201.693787 504.30102,201.693787" id="Shape" fill="#9A9C00" fill-rule="nonzero"></path>
                 <path d="M545.430189,108.174679 L514.85283,108.174679 C513.735849,106.359402 512.2,104.823397 510.384906,103.706303 L510.384906,66.9818376 C510.384906,63.0720085 507.313208,60 503.403774,60 C499.49434,60 496.422642,63.0720085 496.422642,66.9818376 L496.422642,103.706303 C492.513208,106.080128 490,110.269231 490,115.156517 C490,122.557265 496.003774,128.561645 503.403774,128.561645 C508.290566,128.561645 512.479245,126.048184 514.85283,122.138355 L545.430189,122.138355 C549.339623,122.138355 552.411321,119.066346 552.411321,115.156517 C552.411321,111.386325 549.2,108.174679 545.430189,108.174679" id="Shape" fill="#9A9C00" fill-rule="nonzero"></path>
-                <text id="give-users-enough-ti" fill="#000000" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="34" font-weight="bold">
-                    <tspan x="0" y="87">give users enough </tspan>
-                    <tspan x="0" y="127.986237">time to complete </tspan>
-                    <tspan x="0" y="168.972473">an action</tspan>
+                <text id="give-users-enough-ti" fill="#000000" font-family="Source Sans Pro" font-size="34" font-weight="bold">
+                    <tspan x="0" y="87">Dành đủ thời gian </tspan>
+                    <tspan x="0" y="127.986237">cho người dùng </tspan>
+                    <tspan x="0" y="168.972473">thao tác</tspan>
                 </text>
             </g>
         </g>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="1590px" height="2328px" viewBox="0 0 1590 2328" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
-    <title>Cover back</title>
-    <desc>Created with Sketch.</desc>
+    <title>Bìa sau</title>
+    <desc>Tạo bằng Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Cover-back">
@@ -112,30 +112,29 @@
                 <polyline id="Fill-102" fill="#000106" points="21.0525312 16.1244859 21.0590312 16.1314859 21.0590312 16.1174859 21.0525312 16.1244859"></polyline>
                 <path d="M21.2264293,16.1192748 C21.2507401,16.1370684 21.2682839,16.1655381 21.2682839,16.2008711 C21.2682839,16.2611151 21.2194117,16.3109372 21.1600132,16.3109372 C21.1006148,16.3109372 21.0514919,16.2646738 21.0479832,16.2044298 L21.0479832,16.3144959 C21.0479832,16.4492188 21.1600132,16.5625895 21.2963541,16.5625895 C21.4362037,16.5625895 21.5479832,16.4492188 21.5479832,16.3144959 C21.5479832,16.1762143 21.4362037,16.0625895 21.2963541,16.0625895 C21.2893366,16.0625895 21.2858278,16.0661482 21.2753015,16.0661482 L21.2264293,16.1192748" id="Fill-103" fill="#000106"></path>
             </g>
-            <text id="Home-Office-Digital," font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="81" font-weight="bold">
-                <tspan x="148" y="555" fill="#000000">Home Office Digital, Data and </tspan>
-                <tspan x="148" y="652" fill="#000000">Technology’s goal is to make </tspan>
-                <tspan x="148" y="749" fill="#000000">exceptional services for </tspan>
-                <tspan x="148" y="846" fill="#000000">everyone.</tspan>
-                <tspan x="523.192" y="846" font-family="HelveticaNeue, Helvetica Neue" font-size="70" font-weight="normal" fill="#000000"></tspan>
-                <tspan x="148" y="943" font-family="HelveticaNeue, Helvetica Neue" font-size="70" font-weight="normal" fill="#000000"> </tspan>
-                <tspan x="148" y="1025" font-family="HelveticaNeue, Helvetica Neue" font-size="66" font-weight="normal" fill="#000000">Understanding accessibility means we can </tspan>
-                <tspan x="148" y="1102" font-family="HelveticaNeue, Helvetica Neue" font-size="66" font-weight="normal" fill="#000000">build services that work for everyone, </tspan>
-                <tspan x="148" y="1179" font-family="HelveticaNeue, Helvetica Neue" font-size="66" font-weight="normal" fill="#000000">whatever their access need.</tspan>
-                <tspan x="148" y="1256" font-family="HelveticaNeue, Helvetica Neue" font-size="66" font-weight="normal" fill="#000000"> </tspan>
-                <tspan x="148" y="1333" font-family="HelveticaNeue, Helvetica Neue" font-size="66" font-weight="normal" fill="#000000">These posters show how you can make </tspan>
-                <tspan x="148" y="1410" font-family="HelveticaNeue, Helvetica Neue" font-size="66" font-weight="normal" fill="#000000">your service accessible for different </tspan>
-                <tspan x="148" y="1487" font-family="HelveticaNeue, Helvetica Neue" font-size="66" font-weight="normal" fill="#000000">access needs.</tspan>
-                <tspan x="148" y="1564" font-family="HelveticaNeue, Helvetica Neue" font-size="66" font-weight="normal" fill="#000000"> </tspan>
-                <tspan x="148" y="1641" font-family="HelveticaNeue, Helvetica Neue" font-size="66" font-weight="normal" fill="#000000">Email </tspan>
-                <tspan x="327.718" y="1641" font-family="HelveticaNeue, Helvetica Neue" font-size="66" font-weight="normal" fill="#005EA5" text-decoration="underline">access@digital.homeoffice.gov.uk</tspan>
-                <tspan x="1328.08" y="1641" font-family="HelveticaNeue, Helvetica Neue" font-size="66" font-weight="normal" fill="#0000EE" text-decoration="underline"> </tspan>
-                <tspan x="1346.428" y="1641" font-family="HelveticaNeue, Helvetica Neue" font-size="66" font-weight="normal" fill="#000000">to </tspan>
-                <tspan x="148" y="1718" font-family="HelveticaNeue, Helvetica Neue" font-size="66" font-weight="normal" fill="#000000">get involved and help make Home Office </tspan>
-                <tspan x="148" y="1795" font-family="HelveticaNeue, Helvetica Neue" font-size="66" font-weight="normal" fill="#000000">services accessible by default.</tspan>
+            <text id="Home-Office-Digital," font-family="Source Sans Pro" font-size="81" font-weight="bold">
+                <tspan x="148" y="555" fill="#000000">Mục tiêu của dự án </tspan>
+                <tspan x="148" y="652" fill="#000000">Số hóa, Dữ liệu, và Công nghệ </tspan>
+                <tspan x="148" y="749" fill="#000000">là cung cấp dịch vụ tốt nhất </tspan>
+                <tspan x="148" y="846" fill="#000000">cho tất cả mọi người.</tspan>
+                <tspan x="523.192" y="846" font-family="Source Sans Pro" font-size="70" font-weight="normal" fill="#000000"></tspan>
+                <tspan x="148" y="943" font-family="Source Sans Pro" font-size="70" font-weight="normal" fill="#000000"> </tspan>
+                <tspan x="148" y="1025" font-family="Source Sans Pro" font-size="66" font-weight="normal" fill="#000000">Hiểu được nguyên tắc trợ năng có nghĩa ta</tspan>
+                <tspan x="148" y="1102" font-family="Source Sans Pro" font-size="66" font-weight="normal" fill="#000000">có thể tạo ra những dịch vụ phù hợp với</tspan>
+                <tspan x="148" y="1179" font-family="Source Sans Pro" font-size="66" font-weight="normal" fill="#000000">tất cả mọi người, cho dù họ cần gì.</tspan>
+                <tspan x="148" y="1256" font-family="Source Sans Pro" font-size="66" font-weight="normal" fill="#000000"> </tspan>
+                <tspan x="148" y="1333" font-family="Source Sans Pro" font-size="66" font-weight="normal" fill="#000000">Những poster ở đây hướng dẫn bạn cách biến</tspan>
+                <tspan x="148" y="1410" font-family="Source Sans Pro" font-size="66" font-weight="normal" fill="#000000">dịch vụ của mình trở nên dễ tiếp cận với</tspan>
+                <tspan x="148" y="1487" font-family="Source Sans Pro" font-size="66" font-weight="normal" fill="#000000">những người với những nhu cầu khác nhau.</tspan>
+                <tspan x="148" y="1564" font-family="Source Sans Pro" font-size="66" font-weight="normal" fill="#000000"> </tspan>
+                <tspan x="148" y="1641" font-family="Source Sans Pro" font-size="66" font-weight="normal" fill="#000000">Email </tspan>
+                <tspan x="327.718" y="1641" font-family="Source Sans Pro" font-size="66" font-weight="normal" fill="#005EA5" text-decoration="underline">access@digital.homeoffice.gov.uk</tspan>
+                <tspan x="1346.428" y="1641" font-family="Source Sans Pro" font-size="66" font-weight="normal" fill="#000000"></tspan>
+                <tspan x="148" y="1718" font-family="Source Sans Pro" font-size="66" font-weight="normal" fill="#000000">để tham gia và giúp đưa các dịch vụ của</tspan>
+                <tspan x="148" y="1795" font-family="Source Sans Pro" font-size="66" font-weight="normal" fill="#000000">Bộ Nội vụ Anh đến với mọi người.</tspan>
             </text>
-            <text id="Digital,-Data-and-Te" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" fill="#0B0C0C">
-                <tspan x="209" y="2285.5">Digital, Data and Technology</tspan>
+            <text id="Digital,-Data-and-Te" font-family="Source Sans Pro" font-size="18" font-weight="bold" fill="#0B0C0C">
+                <tspan x="209" y="2285.5">Số hóa, Dữ liệu, và Công nghệ</tspan>
             </text>
             <g id="by-nc-sa" transform="translate(496.000000, 2244.000000)">
                 <g id="svg2759">
@@ -184,10 +183,10 @@
                     </g>
                 </g>
             </g>
-            <text id="This-work-is-license" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="18" fill="#000000">
-                <tspan x="641" y="2248">This work is licensed under the Creative Commons Attribution-</tspan>
-                <tspan x="641" y="2266">NonCommercial-ShareAlike 4.0 International License. To view a copy of </tspan>
-                <tspan x="641" y="2284">this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.</tspan>
+            <text id="This-work-is-license" font-family="Source Sans Pro" font-size="12" font-weight="normal" line-spacing="18" fill="#000000">
+                <tspan x="641" y="2248">Tài liệu này đượcc cấp giấy phép Creative Commons Attribution-</tspan>
+                <tspan x="641" y="2266">NonCommercial-ShareAlike 4.0 International License. Để xem giấy phép </tspan>
+                <tspan x="641" y="2284">xin hãy truy cập http://creativecommons.org/licenses/by-nc-sa/4.0/.</tspan>
             </text>
         </g>
     </g>
