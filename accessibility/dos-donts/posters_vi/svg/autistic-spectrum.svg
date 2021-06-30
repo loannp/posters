@@ -80,7 +80,7 @@
                 </text>
                 <rect id="Rectangle-5" fill="#28A197" x="365" y="0" width="236" height="96"></rect>
                 <text id="Attach-files" font-family="Source Sans Pro" font-size="36" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="396" y="62">Đính kèm</tspan>
+                    <tspan x="404" y="62">Đính kèm</tspan>
                 </text>
             </g>
             <g id="Dont-4" transform="translate(862.000000, 1686.000000)">
@@ -91,7 +91,7 @@
                 </text>
                 <rect id="Rectangle-5" fill="#28A197" x="373" y="18" width="236" height="96"></rect>
                 <text id="Click-here!" font-family="Source Sans Pro" font-size="36" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="360" y="80">Bấm vào đây</tspan>
+                    <tspan x="390" y="80">Bấm vào đây</tspan>
                 </text>
             </g>
             <g id="Do-3" transform="translate(115.000000, 1383.000000)">
