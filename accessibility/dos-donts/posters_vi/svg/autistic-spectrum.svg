@@ -7,11 +7,11 @@
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Autistic-spectrum">
             <rect id="background" fill="#EDE2D0" x="44" y="50" width="1502" height="2146"></rect>
-            <text id="Designing-for-users" font-family="Helvetica, sans-serif" font-size="80" font-weight="bold" fill="#000000">
+            <text id="Designing-for-users" font-family="Source Sans Pro" font-size="80" font-weight="bold" fill="#000000">
                 <tspan x="110" y="246">Thiết kế dành cho</tspan>
             </text>
-            <text id="autistic-spectrum" font-family="Helvetica, sans-serif" font-size="123" font-weight="bold" fill="#000000">
-                <tspan x="111.312" y="382">người mắc rối loạn phổ tự kỷ</tspan>
+            <text id="autistic-spectrum" font-family="Source Sans Pro" font-size="100" font-weight="bold" fill="#000000">
+                <tspan x="111.312" y="382">người rối loạn phổ tự kỷ</tspan>
             </text>
             <ellipse id="Oval-23" fill="#DF3034" opacity="0.25" cx="1255.87423" cy="228.289474" rx="75.8742331" ry="75.3070175"></ellipse>
             <ellipse id="Oval-23" fill="#F47738" opacity="0.25" cx="1325.5" cy="189.307018" rx="75.8742331" ry="75.3070175"></ellipse>
@@ -24,15 +24,15 @@
             <rect id="Rectangle-2" fill="#FFFFFF" opacity="0.5" x="44" y="1909.54078" width="1502" height="294.440002"></rect>
             <path d="M120.980942,473 L1475.00037,473" id="Line" stroke="#F47738" stroke-width="8" stroke-linecap="square"></path>
             <path d="M26.5,1322 L1555.01599,1322" id="Line" stroke="#F47738" stroke-width="8" stroke-linecap="square" transform="translate(791.000000, 1322.000000) rotate(90.000000) translate(-791.000000, -1322.000000) "></path>
-            <text id="Do…" font-family="Helvetica, sans-serif" font-size="100" font-weight="bold" fill="#000000">
+            <text id="Do…" font-family="Source Sans Pro" font-size="100" font-weight="bold" fill="#000000">
                 <tspan x="111" y="624">Nên</tspan>
             </text>
-            <text id="Don’t…" font-family="Helvetica, sans-serif" font-size="100" font-weight="bold" fill="#000000">
+            <text id="Don’t…" font-family="Source Sans Pro" font-size="100" font-weight="bold" fill="#000000">
                 <tspan x="854" y="624">Không nên</tspan>
             </text>
             <g id="Do-5" transform="translate(115.000000, 1941.000000)">
-                <text id="build-simple-and" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
-                    <tspan x="0" y="109">dựng layout đơn giản</tspan>
+                <text id="build-simple-and" font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="109">Dựng layout đơn giản</tspan>
                     <tspan x="0" y="149">và thống nhất</tspan>
                 </text>
                 <g id="Group" transform="translate(402.000000, 0.000000)">
@@ -48,8 +48,8 @@
                 </g>
             </g>
             <g id="Dont-5" transform="translate(862.000000, 1940.000000)">
-                <text id="build-complex-and" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
-                    <tspan x="0" y="110">dựng layout</tspan>
+                <text id="build-complex-and" font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="110">Dựng layout</tspan>
                     <tspan x="0" y="150">phức tạp</tspan>
                 </text>
                 <g id="Group" transform="translate(414.000000, 0.000000)">
@@ -74,24 +74,24 @@
                 </g>
             </g>
             <g id="Do-4" transform="translate(115.000000, 1714.000000)">
-                <text id="make-buttons-" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
-                    <tspan x="0" y="35">đặt tên các nút bấm </tspan>
+                <text id="make-buttons-" font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="35">Đặt tên các nút bấm </tspan>
                     <tspan x="0" y="75">rõ chức năng</tspan>
                 </text>
                 <rect id="Rectangle-5" fill="#28A197" x="365" y="0" width="236" height="96"></rect>
-                <text id="Attach-files" font-family="Helvetica, sans-serif" font-size="36" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="386" y="62">Đính kèm file</tspan>
+                <text id="Attach-files" font-family="Source Sans Pro" font-size="36" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="396" y="62">Đính kèm</tspan>
                 </text>
             </g>
             <g id="Dont-4" transform="translate(862.000000, 1686.000000)">
-                <text id="make-buttons" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
-                    <tspan x="0" y="33">đặt tên</tspan>
+                <text id="make-buttons" font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="33">Đặt tên</tspan>
                     <tspan x="0" y="73">các nút bấm </tspan>
                     <tspan x="0" y="113">không rõ ràng </tspan>
                 </text>
                 <rect id="Rectangle-5" fill="#28A197" x="373" y="18" width="236" height="96"></rect>
-                <text id="Click-here!" font-family="Helvetica, sans-serif" font-size="36" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="402" y="80">Bấm vào đây!</tspan>
+                <text id="Click-here!" font-family="Source Sans Pro" font-size="36" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="360" y="80">Bấm vào đây</tspan>
                 </text>
             </g>
             <g id="Do-3" transform="translate(115.000000, 1383.000000)">
@@ -101,8 +101,8 @@
                     <path d="M20.6929064,69.0315515 C20.6929064,74.7459819 16.0615199,79.3776184 10.347398,79.3776184 C4.6313865,79.3776184 0,74.7459819 0,69.0315515 C0,63.3171212 4.6313865,58.6854846 10.347398,58.6854846 C16.0615199,58.6854846 20.6929064,63.3171212 20.6929064,69.0315515" id="Fill-3"></path>
                     <path d="M20.6929064,99.7160913 C20.6929064,105.430522 16.0615199,110.062158 10.347398,110.062158 C4.6313865,110.062158 0,105.430522 0,99.7160913 C0,94.0016609 4.6313865,89.3700244 10.347398,89.3700244 C16.0615199,89.3700244 20.6929064,94.0016609 20.6929064,99.7160913" id="Fill-9"></path>
                 </g>
-                <text id="use-simple-" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
-                    <tspan x="0" y="50">viết câu </tspan>
+                <text id="use-simple-" font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="50">Viết câu </tspan>
                     <tspan x="0" y="90">đơn giản và </tspan>
                     <tspan x="0" y="130">dưới dạng danh sách</tspan>
                 </text>
@@ -111,8 +111,8 @@
                 </text>
             </g>
             <g id="Dont-3" transform="translate(861.000000, 1383.000000)">
-                <text id="create-a-wall-" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
-                    <tspan x="0" y="55">viết </tspan>
+                <text id="create-a-wall-" font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="55">Viết </tspan>
                     <tspan x="0" y="95">đoạn văn dài</tspan>
                 </text>
                 <text id="" font-family="FontAwesome" font-size="144" font-weight="normal" fill="#F47738">
@@ -122,18 +122,18 @@
                     <tspan x="486" y="123"></tspan>
                 </text>
             </g>
-            <g id="Do-2" transform="translate(115.000000, 1113.000000)" font-family="Helvetica, sans-serif" font-weight="bold">
-                <text id="Do-this." font-size="84" fill="#0B0C0C">
+            <g id="Do-2" transform="translate(115.000000, 1113.000000)" font-family="Source Sans Pro" font-weight="bold">
+                <text id="Do-this." font-size="40" fill="#0B0C0C">
                     <tspan x="325" y="82">Làm thế này.</tspan>
                 </text>
                 <text id="write-in-plain-langu" font-size="34" fill="#000000">
-                    <tspan x="0" y="38">dùng từ </tspan>
+                    <tspan x="0" y="38">Dùng từ </tspan>
                     <tspan x="0" y="78">dễ hiểu</tspan>
                 </text>
             </g>
             <g id="Dont-2" transform="translate(861.000000, 1037.000000)">
-                <text id="use-figures-of-speec" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
-                    <tspan x="0" y="114">dùng từ mang tính ẩn ý </tspan>
+                <text id="use-figures-of-speec" font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="114">Dùng từ mang tính ẩn ý </tspan>
                     <tspan x="0" y="154">hoặc thành ngữ</tspan>
                 </text>
                 <g id="Group-2" transform="translate(363.000000, 0.000000)">
@@ -146,8 +146,8 @@
                 </g>
             </g>
             <g id="Do-1" transform="translate(115.000000, 783.000000)">
-                <text id="use-simple-" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
-                    <tspan x="0" y="88">dùng màu sắc </tspan>
+                <text id="use-simple-" font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="88">Dùng màu sắc </tspan>
                     <tspan x="0" y="128">đơn giản</tspan>
                 </text>
                 <circle id="Oval-29" fill="#F47738" opacity="0.8" cx="432" cy="120" r="55"></circle>
@@ -158,8 +158,8 @@
                 <circle id="Oval-1" fill="#F5157C" opacity="0.939657183" cx="444.5" cy="118.5" r="54.5"></circle>
                 <circle id="Oval-1" fill="#BD0FE1" opacity="0.910000026" cx="534.5" cy="118.5" r="54.5"></circle>
                 <circle id="Oval-1" fill="#F8E81C" opacity="0.879372668" cx="493.5" cy="54.5" r="54.5"></circle>
-                <text id="use-bright-" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
-                    <tspan x="0" y="98">dùng màu sắc </tspan>
+                <text id="use-bright-" font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="98">Dùng màu sắc </tspan>
                     <tspan x="0" y="138">có độ tương phản cao</tspan>
                 </text>
             </g>
@@ -268,11 +268,11 @@
                 <polyline id="Fill-102" fill="#000106" points="21.0525312 16.1244859 21.0590312 16.1314859 21.0590312 16.1174859 21.0525312 16.1244859"></polyline>
                 <path d="M21.2264293,16.1192748 C21.2507401,16.1370684 21.2682839,16.1655381 21.2682839,16.2008711 C21.2682839,16.2611151 21.2194117,16.3109372 21.1600132,16.3109372 C21.1006148,16.3109372 21.0514919,16.2646738 21.0479832,16.2044298 L21.0479832,16.3144959 C21.0479832,16.4492188 21.1600132,16.5625895 21.2963541,16.5625895 C21.4362037,16.5625895 21.5479832,16.4492188 21.5479832,16.3144959 C21.5479832,16.1762143 21.4362037,16.0625895 21.2963541,16.0625895 C21.2893366,16.0625895 21.2858278,16.0661482 21.2753015,16.0661482 L21.2264293,16.1192748" id="Fill-103" fill="#000106"></path>
             </g>
-            <text id="Digital,-Data-and-Te" font-family="Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#0B0C0C">
+            <text id="Digital,-Data-and-Te" font-family="Source Sans Pro" font-size="18" font-weight="bold" fill="#0B0C0C">
                 <tspan x="209" y="2285.5">Số hóa, Dữ liệu, và Công nghệ</tspan>
             </text>
-            <text id="For-more-information" font-family="Helvetica, sans-serif" font-size="32" font-weight="normal" line-spacing="36" fill="#000000">
-                <tspan x="1110.56" y="2252">Để biết thêm thông tin, xin liên hệ:</tspan>
+            <text id="For-more-information" font-family="Source Sans Pro" font-size="32" font-weight="normal" line-spacing="36" fill="#000000">
+                <tspan x="1110.56" y="2252">Để biết thêm thông tin, liên hệ:</tspan>
                 <tspan x="1060" y="2288">access@digital.homeoffice.gov.uk</tspan>
             </text>
             <g id="by-nc-sa" transform="translate(496.000000, 2244.000000)">
@@ -322,7 +322,7 @@
                     </g>
                 </g>
             </g>
-            <text id="This-work-is-license" font-family="Helvetica, sans-serif" font-size="12" font-weight="normal" line-spacing="18" fill="#000000">
+            <text id="This-work-is-license" font-family="Source Sans Pro" font-size="12" font-weight="normal" line-spacing="18" fill="#000000">
                 <tspan x="641" y="2248">Tài liệu này đượcc cấp giấy phép Creative Commons Attribution-</tspan>
                 <tspan x="641" y="2266">NonCommercial-ShareAlike 4.0 International License. Để xem giấy phép </tspan>
                 <tspan x="641" y="2284">xin hãy truy cập http://creativecommons.org/licenses/by-nc-sa/4.0/.</tspan>
