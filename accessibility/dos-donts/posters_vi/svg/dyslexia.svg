@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="1590px" height="2328px" viewBox="0 0 1590 2328" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
-    <title>Dyslexia</title>
+    <title>Chứng khó đọc</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <rect id="path-1" x="400" y="67" width="236" height="86"></rect>
@@ -357,7 +357,7 @@
             <text id="Digital,-Data-and-Te" font-family="Source Sans Pro" font-size="18" font-weight="bold" fill="#0B0C0C">
                 <tspan x="209" y="2285.5">Digital, Data and Technology</tspan>
             </text>
-            <text id="For-more-information" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" line-spacing="36" fill="#000000">
+            <text id="For-more-information" font-family="Source Sans Pro" font-size="32" font-weight="normal" line-spacing="36" fill="#000000">
                 <tspan x="1110.56" y="2252">Để biết thêm thông tin, liên hệ:</tspan>
                 <tspan x="1060" y="2288">access@digital.homeoffice.gov.uk</tspan>
             </text>
@@ -408,10 +408,10 @@
                     </g>
                 </g>
             </g>
-            <text id="This-work-is-license" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="18" fill="#000000">
-                <tspan x="641" y="2248">This work is licensed under the Creative Commons Attribution-</tspan>
-                <tspan x="641" y="2266">NonCommercial-ShareAlike 4.0 International License. To view a copy of </tspan>
-                <tspan x="641" y="2284">this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.</tspan>
+            <text id="This-work-is-license" font-family="Source Sans Pro" font-size="12" font-weight="normal" line-spacing="18" fill="#000000">
+                <tspan x="641" y="2248">Tài liệu này được cấp giấy phép Creative Commons Attribution-</tspan>
+                <tspan x="641" y="2266">NonCommercial-ShareAlike 4.0 International License. Để xem giấy phép </tspan>
+                <tspan x="641" y="2284">xin hãy truy cập http://creativecommons.org/licenses/by-nc-sa/4.0/.</tspan>
             </text>
         </g>
     </g>
