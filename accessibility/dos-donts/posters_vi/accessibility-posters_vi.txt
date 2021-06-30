@@ -110,4 +110,4 @@ Không nên
 • Khiến người dùng bị nhầm lẫn về các thao tác hoặc mốc thời gian tiếp theo
 • Không giải thích về kết quả của thao tác
 • Gây khó khăn khi nhận sự trợ giúp
-• Để người dùng không nắm rõ những thông tin họ đã nhập
+• Khiến người dùng không nắm được thông tin đã nhập
