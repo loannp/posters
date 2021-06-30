@@ -10,22 +10,22 @@
             <rect id="Rectangle-2" fill="#FFFFFF" opacity="0.5" x="44" y="724" width="1502" height="294.440002"></rect>
             <rect id="Rectangle-2" fill="#FFFFFF" opacity="0.5" x="44" y="1312" width="1502" height="294.440002"></rect>
             <rect id="Rectangle-2" fill="#FFFFFF" opacity="0.5" x="44" y="1909.54004" width="1502" height="294.440002"></rect>
-            <text id="Designing-for-users-" font-family="Helvetica, sans-serif" font-size="80" font-weight="bold" fill="#000000">
+            <text id="Designing-for-users-" font-family="Source Sans Pro" font-size="80" font-weight="bold" fill="#000000">
                 <tspan x="112" y="206">Thiết kế cho </tspan>
             </text>
-            <text id="D/deaf-or-hard-of-he" font-family="Helvetica, sans-serif" font-size="100" font-weight="bold" line-spacing="112" fill="#000000">
+            <text id="D/deaf-or-hard-of-he" font-family="Source Sans Pro" font-size="100" font-weight="bold" line-spacing="112" fill="#000000">
                 <tspan x="110" y="313">người khiếm thính </tspan>
             </text>
             <path d="M120.980942,473 L1475.00037,473" id="Line" stroke="#FFBF47" stroke-width="8" stroke-linecap="square"></path>
             <path d="M26.5,1322 L1555.01599,1322" id="Line" stroke="#FFBF47" stroke-width="8" stroke-linecap="square" transform="translate(791.000000, 1322.000000) rotate(90.000000) translate(-791.000000, -1322.000000) "></path>
-            <text id="Do…" font-family="Helvetica, sans-serif" font-size="100" font-weight="bold" fill="#000000">
+            <text id="Do…" font-family="Source Sans Pro" font-size="100" font-weight="bold" fill="#000000">
                 <tspan x="112" y="621">Nên...</tspan>
             </text>
-            <text id="Don’t…" font-family="Helvetica, sans-serif" font-size="100" font-weight="bold" fill="#000000">
+            <text id="Don’t…" font-family="Source Sans Pro" font-size="100" font-weight="bold" fill="#000000">
                 <tspan x="854" y="621">Không nên...</tspan>
             </text>
             <g id="Do-5" transform="translate(117.000000, 1967.000000)">
-                <text id="let-users-ask-for-th" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
+                <text id="let-users-ask-for-th" font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">
                     <tspan x="0" y="33">Cho phép người dùng</tspan>
                     <tspan x="0" y="73">yêu cầu các phương thức</tspan>
                     <tspan x="0" y="113">hỗ trợ giao tiếp khi</tspan>
@@ -36,7 +36,7 @@
                 </text>
             </g>
             <g id="Dont-5" transform="translate(863.000000, 1937.000000)">
-                <text id="make-telephone-the-o" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
+                <text id="make-telephone-the-o" font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">
                     <tspan x="0" y="63">Mặc định phương thức </tspan>
                     <tspan x="0" y="103">liên lạc duy nhất </tspan>
                     <tspan x="0" y="143">là điện thoại</tspan>
@@ -49,7 +49,7 @@
                 </text>
             </g>
             <g id="Dont-4" transform="translate(863.000000, 1682.000000)">
-                <text id="make-users-" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
+                <text id="make-users-" font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">
                     <tspan x="0" y="49">Để người dùng</tspan>
                     <tspan x="0" y="89">phải đọc những</tspan>
                     <tspan x="0" y="129">đoạn nội dung dài</tspan>
@@ -62,7 +62,7 @@
                 </text>
             </g>
             <g id="Do-4" transform="translate(115.000000, 1662.000000)">
-                <text id="break-up-content" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
+                <text id="break-up-content" font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">
                     <tspan x="0" y="69">Chia nội dung theo</tspan>
                     <tspan x="0" y="109">tiêu đề phụ,</tspan>
                     <tspan x="0" y="149">hình ảnh và video</tspan>
@@ -80,7 +80,7 @@
                 </g>
             </g>
             <g id="Dont-3" transform="translate(864.000000, 1350.000000)">
-                <text id="make-complex" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
+                <text id="make-complex" font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">
                     <tspan x="0" y="70">Tạo bố cục và</tspan>
                     <tspan x="0" y="110">menu phức tạp</tspan>
 
@@ -107,7 +107,7 @@
                 </g>
             </g>
             <g id="Do-3" transform="translate(115.000000, 1351.000000)">
-                <text id="use-a-linear," font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
+                <text id="use-a-linear," font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">
                     <tspan x="0" y="99">Tạo bố cục trật tự,</tspan>
                     <tspan x="0" y="139">hợp lý</tspan>
                 </text>
@@ -124,7 +124,7 @@
                 </g>
             </g>
             <g id="Do-2" transform="translate(115.000000, 1044.000000)">
-                <text id="use-subtitles-" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
+                <text id="use-subtitles-" font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">
                     <tspan x="0" y="76">Sử dụng phụ đề </tspan>
                     <tspan x="0" y="116">hoặc cung cấp </tspan>
                     <tspan x="0" y="156">bản ghi lời thoại </tspan>
@@ -133,12 +133,12 @@
                 <text id="" font-family="FontAwesome" font-size="225" font-weight="normal" fill="#FFBF47">
                     <tspan x="369" y="193"></tspan>
                 </text>
-                <text id="CC" font-family="Helvetica, sans-serif" font-size="100" font-weight="bold" fill="#DF3034">
+                <text id="CC" font-family="Source Sans Pro" font-size="100" font-weight="bold" fill="#DF3034">
                     <tspan x="404" y="151">CC</tspan>
                 </text>
             </g>
             <g id="Dont-2" transform="translate(865.000000, 1068.000000)">
-                <text id="put-content-in" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
+                <text id="put-content-in" font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">
                     <tspan x="0" y="70">Chỉ cung cấp thông tin</tspan>
                     <tspan x="0" y="110">bằng âm thanh và video</tspan>
         
@@ -148,7 +148,7 @@
                 </text>
             </g>
             <g id="Dont-1" transform="translate(864.000000, 742.000000)">
-                <text id="use-complicated" font-family="Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#000000">
+                <text id="use-complicated" font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">
                     <tspan x="0" y="98">Sử dụng các từ khó</tspan>
                     <tspan x="0" y="138">và cách diễn đạt</tspan>
                     <tspan x="0" y="178">ẩn dụ</tspan>
@@ -162,7 +162,7 @@
                     <image id="Bitmap" transform="translate(44.521463, 140.200878) rotate(25.000000) translate(-44.521463, -140.200878) " x="7.52146293" y="114.200878" width="74" height="52" xlink:href="data:image/png;base64,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"></image>
                 </g>
             </g>
-            <g id="Do-1" transform="translate(115.000000, 821.000000)" font-family="Helvetica, sans-serif" font-weight="bold">
+            <g id="Do-1" transform="translate(115.000000, 821.000000)" font-family="Source Sans Pro" font-weight="bold">
                 <text id="Do-this." font-size="84" fill="#0B0C0C">
                     <tspan x="312" y="82">Do this.</tspan>
                 </text>
@@ -270,7 +270,7 @@
                 <path d="M21.2264293,16.9155227 C21.2507401,16.8940173 21.2682839,16.8653435 21.2682839,16.8333414 C21.2682839,16.7690813 21.2194117,16.7224864 21.1600132,16.7224864 C21.1006148,16.7224864 21.0514919,16.7690813 21.0479832,16.826173 L21.0479832,16.7189021 C21.0479832,16.5796292 21.1600132,16.4690301 21.2963541,16.4690301 C21.4362037,16.4690301 21.5479832,16.5796292 21.5479832,16.7189021 C21.5479832,16.858175 21.4362037,16.9690301 21.2963541,16.9690301 C21.2893366,16.9690301 21.2858278,16.9654459 21.2753015,16.9654459 L21.2264293,16.9155227" id="Fill-101" fill="#000206"></path>
                 <path d="M21.2264293,16.1192748 C21.2507401,16.1370684 21.2682839,16.1655381 21.2682839,16.2008711 C21.2682839,16.2611151 21.2194117,16.3109372 21.1600132,16.3109372 C21.1006148,16.3109372 21.0514919,16.2646738 21.0479832,16.2044298 L21.0479832,16.3144959 C21.0479832,16.4492188 21.1600132,16.5625895 21.2963541,16.5625895 C21.4362037,16.5625895 21.5479832,16.4492188 21.5479832,16.3144959 C21.5479832,16.1762143 21.4362037,16.0625895 21.2963541,16.0625895 C21.2893366,16.0625895 21.2858278,16.0661482 21.2753015,16.0661482 L21.2264293,16.1192748" id="Fill-103" fill="#000206"></path>
             </g>
-            <text id="Digital,-Data-and-Te" font-family="Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#0B0C0C">
+            <text id="Digital,-Data-and-Te" font-family="Source Sans Pro" font-size="18" font-weight="bold" fill="#0B0C0C">
                 <tspan x="209" y="2285.5">Digital, Data and Technology</tspan>
             </text>
             <text id="For-more-information" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" line-spacing="36" fill="#000000">
