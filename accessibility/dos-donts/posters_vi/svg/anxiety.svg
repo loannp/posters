@@ -125,7 +125,7 @@
                     <path d="M21.2264293,16.1192748 C21.2507401,16.1370684 21.2682839,16.1655381 21.2682839,16.2008711 C21.2682839,16.2611151 21.2194117,16.3109372 21.1600132,16.3109372 C21.1006148,16.3109372 21.0514919,16.2646738 21.0479832,16.2044298 L21.0479832,16.3144959 C21.0479832,16.4492188 21.1600132,16.5625895 21.2963541,16.5625895 C21.4362037,16.5625895 21.5479832,16.4492188 21.5479832,16.3144959 C21.5479832,16.1762143 21.4362037,16.0625895 21.2963541,16.0625895 C21.2893366,16.0625895 21.2858278,16.0661482 21.2753015,16.0661482 L21.2264293,16.1192748" id="Fill-103" fill="#000106"></path>
                 </g>
                 <text id="Digital,-Data-and-Technology" fill="#0B0C0C" font-family="Source Sans Pro" font-size="18" font-weight="bold">
-                    <tspan x="163" y="63.5">Số hóa, Dữ liệu, và Công nghệ</tspan>
+                    <tspan x="163" y="63.5">Digital, Data and Technology</tspan>
                 </text>
                 <text id="For-more-information,-contact:" fill="#000000" font-family="Source Sans Pro" font-size="32" font-weight="normal">
                     <tspan x="1064.56" y="30">Để biết thêm thông tin, liên hệ:</tspan>
@@ -184,10 +184,10 @@
                     <tspan x="595" y="26">Tài liệu này được cấp giấy phép Creative Commons Attribution-</tspan>
                 </text>
                 <text id="NonCommercial-ShareAlike-4.0-International-License.-To-view-a-copy-of" fill="#000000" font-family="Source Sans Pro" font-size="12" font-weight="normal">
-                    <tspan x="595" y="44">NonCommercial-ShareAlike 4.0 International License. Để xem</tspan>
+                    <tspan x="595" y="44">NonCommercial-ShareAlike 4.0 International License. Để xem giấy phép</tspan>
                 </text>
                 <text id="this-license,-visit-http://creativecommons.org/licenses/by-nc-sa/4.0/." fill="#000000" font-family="Source Sans Pro" font-size="12" font-weight="normal">
-                    <tspan x="595" y="62">giấy phép này, xin vui lòng truy cập http://creativecommons.org/licenses/by-nc-sa/4.0/.</tspan>
+                    <tspan x="595" y="62">xin hãy truy cập http://creativecommons.org/licenses/by-nc-sa/4.0/.</tspan>
                 </text>
             </g>
             <g id="Header" transform="translate(66.000000, 61.000000)">
