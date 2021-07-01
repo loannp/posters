@@ -70,10 +70,10 @@
             <path d="M120.980942,473 L1475.00037,473" id="Line" stroke="#B58840" stroke-width="8" stroke-linecap="square"></path>
             <path d="M26.5,1322 L1555.01599,1322" id="Line" stroke="#B58840" stroke-width="8" stroke-linecap="square" transform="translate(791.000000, 1322.000000) rotate(90.000000) translate(-791.000000, -1322.000000) "></path>
             <text id="Do…" font-family="Source Sans Pro" font-size="100" font-weight="bold" fill="#000000">
-                <tspan x="112" y="621">Nên…</tspan>
+                <tspan x="112" y="621">NÊN…</tspan>
             </text>
             <text id="Don’t…" font-family="Source Sans Pro" font-size="100" font-weight="bold" fill="#000000">
-                <tspan x="854" y="621">Không nên…</tspan>
+                <tspan x="854" y="621">KHÔNG NÊN…</tspan>
             </text>
             <g id="Do-5" transform="translate(117.000000, 1950.000000)">
                 <text id="provide-" font-family="Source Sans Pro" font-size="34" font-weight="bold" fill="#000000">

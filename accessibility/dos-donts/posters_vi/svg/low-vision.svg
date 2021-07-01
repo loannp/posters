@@ -24,10 +24,10 @@
             </text>
             <path d="M120.980942,473 L1475.00037,473" id="Line" stroke="#F47738" stroke-width="8" stroke-linecap="square"></path>
             <text id="Do…" font-family="Source Sans Pro" font-size="100" font-weight="bold" fill="#000000">
-                <tspan x="110" y="621">Nên…</tspan>
+                <tspan x="110" y="621">NÊN...</tspan>
             </text>
             <text id="Don’t…" font-family="Source Sans Pro" font-size="100" font-weight="bold" fill="#000000">
-                <tspan x="862" y="621">Không nên…</tspan>
+                <tspan x="862" y="621">KHÔNG NÊN…</tspan>
             </text>
             <rect id="Rectangle-2" fill="#FFFFFF" opacity="0.5" x="44" y="724.15" width="1502" height="294.435431"></rect>
             <rect id="Rectangle-2" fill="#FFFFFF" opacity="0.5" x="44" y="1900.92636" width="1502" height="294.435431"></rect>
